@@ -31,10 +31,11 @@
 
 ### 🔨 **Projects**  
 1. **Data Analysis Project on Blinkit Data**  
-   *Analyzed and visualized sales trends using pandas and Tableau.*  
-   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+   *This project showcases a comprehensive data analysis and machine learning project aimed at enhancing sales and operational efficiency for Blinkit. By analyzing item sales data, we extract actionable insights and build models that predict and improve sales performance. This project covers various aspects, including the impact of item attributes on sales, outlet performance analysis, and strategies for promoting low-visibility, high-potential items..*
+**Link:** https://github.com/coder-akram-khan/blinkit-sales-analysis  
+   <img src="https://github.com/coder-akram-khan/blinkit-sales-analysis/blob/main/BlinkitDataAnalysis.png?raw=true" />
 
-2. **Monero (XMR) Mining Dashboard**  
+3. **Monero (XMR) Mining Dashboard**  
    *Real-time mining stats using moneroocean.stream API.*
 
 ### ✨ **Fun Fact**  
