@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/mr-akram-khan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-   <a href="https://discord.com/users/your-discord-id" target="_blank">
+   <a href="https://discord.com/users/oem.ak" target="_blank">
     <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/pngwing.com(5).png?raw=true" height="35" alt="Discord" />
   </a>
 </div>
