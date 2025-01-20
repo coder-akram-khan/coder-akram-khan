@@ -31,10 +31,22 @@
    *Demo:*  
    ![Web App Demo](https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App/blob/main/assets/app.gif?raw=true)
 
-3. **[Global HIV Incidence Dashboard](https://github.com/coder-akram-khan/hiv-incidence-dashboard)**  
-   An interactive dashboard visualizing global HIV incidence data, providing insights into trends across different regions and demographics.  
+3. **[Zomato EDA Dashboard](https://github.com/coder-akram-khan/Zomato-EDA-Dashboard)**  
+   An interactive dashboard for exploratory data analysis (EDA) of Zomato restaurant data. The dashboard allows users to filter data, view insights, and visualize various aspects of the restaurant data through interactive charts and 
+   maps.  
    *Demo:*  
-   ![Dashboard Demo](https://github.com/coder-akram-khan/coder-akram-khan/blob/main/Screencastfrom2024-12-2001-16-23-ezgif.com-video-to-gif-converter.gif?raw=true)
+   ![Dashboard Demo](https://raw.githubusercontent.com/coder-akram-khan/Zomato-EDA-Dashboard/refs/heads/main/assets/zomatodash.png)
+
+4. **[Business Analytics Dashboard](https://github.com/coder-akram-khan/Business_Analytics_Dashboard)**  
+   The Business Analytics Dashboard is a Streamlit application designed to visualize and analyze employee data. It offers flexibility in data loading, allowing you to import data from a local MySQL database or a CSV file. The application 
+   empowers users to gain insights into employee metrics like salary, department distribution, and more, through various visualizations like charts, tables, and key performance indicators (KPIs). 
+   *Demo:*  
+   ![](https://raw.githubusercontent.com/coder-akram-khan/Business_Analytics_Dashboard/refs/heads/main/dash.png)
+
+5. **[Screentime Analysis and Prediction](https://github.com/coder-akram-khan/Screentime-App-Usage-Analysis)**  
+   This project analyzes and predicts app usage behavior based on features such as notifications and times opened. The analysis includes exploratory data analysis (EDA), insights generation, and predictive modeling using multiple machine    learning techniques.
+   *Demo:*  
+   ![](https://github.com/coder-akram-khan/Screentime-App-Usage-Analysis/blob/main/cover.png?raw=true)
 
 
 ---
