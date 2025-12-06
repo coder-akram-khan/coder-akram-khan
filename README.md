@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/master/assets/img/banner/circuit.gif" width="900" />
+</p>
+
+
 <h1 align="center">Hi 👋! Welcome to Akram Khan's GitHub</h1>
 <h3 align="center">🚀 Data Analyst | Machine Learning Engineer | Open Source Enthusiast | From India 🇮🇳</h3>
 <!-- GitHub Contribution Graph -->
