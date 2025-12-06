@@ -5,9 +5,9 @@
 </p>
 
 
-<!-- <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="700"/>
-</p> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coder-akram-khan&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
 
 
 
@@ -20,9 +20,6 @@
 ### 📊 GitHub Stats 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coder-akram-khan&style=for-the-badge&color=39FF14" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coder-akram-khan&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 
