@@ -1,17 +1,33 @@
 <h1 align="center">Hi 👋! Welcome to Akram Khan's GitHub</h1>
 <h3 align="center">🚀 Data Analyst | Machine Learning Engineer | Open Source Enthusiast | From India 🇮🇳</h3>
-
-<!-- <div align="center">
-  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/Types%20Of%20Activation%20Functions%20in%20Neural%20Networks%20and%20Rationale%20behind%20it.gif?raw=true" width="1000" alt="Coding Gif" />
-</div> -->
-
----
+<!-- GitHub Contribution Graph -->
+<!-- 🚀 Sci-Fi GitHub Stats -->
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula" height="150"/>
-</div>
+
+<p align="center">
+
+  <!-- GitHub Stats + Top Languages (Aligned Row) -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula&hide_border=true" height="170" />
+
+  <br/><br/>
+
+  <!-- Neon Contribution Graph (Full Width) -->
+  <img src="https://ghchart.rshah.org/39ff14/coder-akram-khan" width="820" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats (Centered) -->
+  <img src="https://streak-stats.demolab.com?user=coder-akram-khan&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="820" />
+
+  <br/><br/>
+
+  <!-- Profile Summary Card (Perfect Width) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-akram-khan&theme=tokyonight" width="820" />
+
+</p>
 
 
 
