@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋! Welcome to Akram Khan's GitHub</h1>
 <h3 align="center">🚀 Data Analyst | Machine Learning Engineer | Open Source Enthusiast | From India 🇮🇳</h3>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/Types%20Of%20Activation%20Functions%20in%20Neural%20Networks%20and%20Rationale%20behind%20it.gif?raw=true" width="1000" alt="Coding Gif" />
-</div>
+</div> -->
 
 ---
 
