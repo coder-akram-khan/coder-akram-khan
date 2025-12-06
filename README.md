@@ -8,11 +8,8 @@
 <!-- <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="700"/>
 </p> -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coder-akram-khan&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-<!-- <h3 align="center">Data Analyst | Machine Learning Engineer | AI Solutions Architect</h3>
-<p align="center">Building intelligent systems, futuristic dashboards, and cloud-native data platforms.</p> -->
+
+
 
 
 
@@ -20,7 +17,14 @@
 <!-- GitHub Contribution Graph -->
 <!-- 🚀 Sci-Fi GitHub Stats -->
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coder-akram-khan&style=for-the-badge&color=39FF14" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coder-akram-khan&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
 
 <p align="center">
 
