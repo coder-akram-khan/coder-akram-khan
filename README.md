@@ -288,21 +288,65 @@
 ---
 
 ### ✨ Fun Fact  
-- I enjoy sharing coding knowledge and creating memes to make tech life fun! 😄  
-  ![Meme Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+<p align="center">
+  I love sharing coding knowledge and creating tech memes —  
+  because learning should always be fun! 😄
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
+</p>
+
 
 ---
 
 ### 📫 Let’s Connect  
-<div align="center">
-  
+
+<p align="center">
+
+  <!-- Email -->
   <a href="mailto:akram.codes.it@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email_Me-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mr-akram-khan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-   <a href="https://discord.com/users/oem.ak" target="_blank">
-    <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/pngwing.com(5).png?raw=true" height="35" alt="Discord" />
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/oem.ak" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
   </a>
-</div>
+
+  <!-- GitHub -->
+  <a href="https://github.com/coder-akram-khan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <!-- Follow Me -->
+    <td align="center" width="50%">
+      <h3>⭐ Follow Me on GitHub</h3>
+      <a href="https://github.com/coder-akram-khan" target="_blank">
+        <img src="https://img.shields.io/github/followers/coder-akram-khan?label=Follow%20Me&style=social" height="40" />
+      </a>
+    </td>
+
+    
+  <td align="center" width="50%">
+    
+  <a href="https://github.com/coder-akram-khan" target="_blank">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/coder-akram-khan" 
+             alt="GitHub QR Code" 
+             width="160" />
+      </a>
+    </td>
+  </tr>
+</table>
