@@ -156,33 +156,133 @@
 
 ---
 
+<!-- Your profile header content -->
 
-### 🔨 Featured Projects  
-1. **[Blinkit Data Sales Analysis](https://github.com/coder-akram-khan/blinkit-sales-analysis)**  
-   Comprehensive data analysis and machine learning project aimed at enhancing sales and operational efficiency for Blinkit.  
-   ![Blinkit Project](https://github.com/coder-akram-khan/blinkit-sales-analysis/blob/main/BlinkitDataAnalysis.png?raw=true)
+<!-- Your profile header content -->
 
-2. **[Loan Approval Prediction Web App](https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App)**  
-   A streamlined web application for predicting loan approvals, helping banks and financial institutions make data-driven decisions.  
-   *Demo:*  
-   ![Web App Demo](https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App/blob/main/assets/app.gif?raw=true)
+### 🔥 Featured Projects
 
-3. **[Zomato EDA Dashboard](https://github.com/coder-akram-khan/Zomato-EDA-Dashboard)**  
-   An interactive dashboard for exploratory data analysis (EDA) of Zomato restaurant data. The dashboard allows users to filter data, view insights, and visualize various aspects of the restaurant data through interactive charts and 
-   maps.  
-   *Demo:*  
-   ![Dashboard Demo](https://raw.githubusercontent.com/coder-akram-khan/Zomato-EDA-Dashboard/refs/heads/main/assets/zomatodash.png)
+<table>
+<tr>
 
-4. **[Business Analytics Dashboard](https://github.com/coder-akram-khan/Business_Analytics_Dashboard)**  
-   The Business Analytics Dashboard is a Streamlit application designed to visualize and analyze employee data. It offers flexibility in data loading, allowing you to import data from a local MySQL database or a CSV file. The application 
-   empowers users to gain insights into employee metrics like salary, department distribution, and more, through various visualizations like charts, tables, and key performance indicators (KPIs). 
-   *Demo:*  
-   ![](https://raw.githubusercontent.com/coder-akram-khan/Business_Analytics_Dashboard/refs/heads/main/dash.png)
+<!-- ================= PROJECT 1 ================= -->
+<td width="50%">
+  <h3 align="center">🛒 Blinkit Sales Analysis</h3>
 
-5. **[Screentime Analysis and Prediction](https://github.com/coder-akram-khan/Screentime-App-Usage-Analysis)**  
-   This project analyzes and predicts app usage behavior based on features such as notifications and times opened. The analysis includes exploratory data analysis (EDA), insights generation, and predictive modeling using multiple machine    learning techniques.
-   *Demo:*  
-   ![](https://github.com/coder-akram-khan/Screentime-App-Usage-Analysis/blob/main/cover.png?raw=true)
+  <p align="center">
+    <!-- <img src="https://raw.githubusercontent.com/coder-akram-khan/coder-akram-khan/main/glow-green.png" width="100%" />
+    <br/> -->
+    <a href="https://github.com/coder-akram-khan/blinkit-sales-analysis">
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/blinkit-sales-analysis/main/BlinkitDataAnalysis.png"
+           width="85%" />
+    </a>
+  </p>
+
+  <p align="center">End-to-end EDA + ML project analyzing Blinkit sales performance.</p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/blinkit-sales-analysis?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/blinkit-sales-analysis?color=39FF14&style=flat" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/coder-akram-khan/blinkit-sales-analysis">
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</td>
+
+
+<!-- ================= PROJECT 2 ================= -->
+<td width="50%">
+  <h3 align="center">🏦 Loan Approval Prediction App</h3>
+
+  <p align="center">
+    <!-- <img src="https://raw.githubusercontent.com/coder-akram-khan/coder-akram-khan/main/glow-blue.png" width="100%" /> -->
+    <!-- <br/> -->
+    <a href="https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App">
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/Loan-Approval-Prediction-Web-App/main/assets/app.gif"
+           width="85%" />
+    </a>
+  </p>
+
+  <p align="center">ML-based Streamlit app predicting loan approvals in real-time.</p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/Loan-Approval-Prediction-Web-App?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/Loan-Approval-Prediction-Web-App?color=39FF14&style=flat" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App">
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</td>
+
+</tr>
+
+
+<tr>
+
+<!-- ================= PROJECT 3 ================= -->
+<td width="50%">
+  <h3 align="center">🍽️ Zomato EDA Dashboard</h3>
+
+  <p align="center">
+    <!-- <img src="https://raw.githubusercontent.com/coder-akram-khan/coder-akram-khan/main/glow-pink.png" width="100%" /> -->
+    <!-- <br/> -->
+    <a href="https://github.com/coder-akram-khan/Zomato-EDA-Dashboard">
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/Zomato-EDA-Dashboard/main/assets/zomatodash.png"
+           width="85%" />
+    </a>
+  </p>
+
+  <p align="center">Restaurant insights dashboard with visual analytics.</p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/Zomato-EDA-Dashboard?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/Zomato-EDA-Dashboard?color=39FF14&style=flat" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/coder-akram-khan/Zomato-EDA-Dashboard">
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</td>
+
+
+<!-- ================= PROJECT 4 ================= -->
+<td width="50%">
+  <h3 align="center">📊 Business Analytics Dashboard</h3>
+
+  <p align="center">
+    <!-- <img src="https://raw.githubusercontent.com/coder-akram-khan/coder-akram-khan/main/glow-green.png" width="100%" />
+    <br/> -->
+    <a href="https://github.com/coder-akram-khan/Business_Analytics_Dashboard">
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/Business_Analytics_Dashboard/main/dash.png"
+           width="85%" />
+    </a>
+  </p>
+
+  <p align="center">Streamlit employee analytics dashboard with KPIs & insights.</p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/Business_Analytics_Dashboard?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/Business_Analytics_Dashboard?color=39FF14&style=flat" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/coder-akram-khan/Business_Analytics_Dashboard">
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</td>
+
+</tr>
+</table>
+
 
 
 ---
