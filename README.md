@@ -1,10 +1,22 @@
+<h1 align="center">Hi! Welcome to Akram Khan's GitHub</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/master/assets/img/banner/circuit.gif" width="900" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=1600&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Akram+Khan;Data+Analyst;Machine+Learning+Engineer;AI+Builder;Transforming+Data+Into+Intelligence;Decrypting+Insights+From+Data" />
 </p>
 
 
-<h1 align="center">Hi 👋! Welcome to Akram Khan's GitHub</h1>
-<h3 align="center">🚀 Data Analyst | Machine Learning Engineer | Open Source Enthusiast | From India 🇮🇳</h3>
+<!-- <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="700"/>
+</p> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coder-akram-khan&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+<!-- <h3 align="center">Data Analyst | Machine Learning Engineer | AI Solutions Architect</h3>
+<p align="center">Building intelligent systems, futuristic dashboards, and cloud-native data platforms.</p> -->
+
+
+
+
 <!-- GitHub Contribution Graph -->
 <!-- 🚀 Sci-Fi GitHub Stats -->
 
