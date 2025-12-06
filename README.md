@@ -7,16 +7,118 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula" height="150"/>
 </div>
+
+
+
 
 ---
 
-### 💻 Technical Skills  
-<div align="center"> <a href="#"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a> <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a> <a href="#"><img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a> <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a> <a href="#"><img src="https://img.shields.io/badge/Excel-%2300758F.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a> <a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></a> <a href="#"><img src="https://img.shields.io/badge/Seaborn-%23005C84.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /></a> <a href="#"><img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a> <a href="#"><img src="https://img.shields.io/badge/Dash-%230176B6.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" /></a> <a href="#"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a> <a href="#"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" /></a> <a href="#"><img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a> <a href="#"><img src="https://img.shields.io/badge/PyCharm-%2300C4B7.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" /></a> <a href="#"><img src="https://img.shields.io/badge/Linux/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux/Ubuntu" /></a> <a href="#"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="#"><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a> <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a> <a href="#"><img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a> </div>
+## 💻 Technical Skills
+
+<table>
+<tr><th>Category</th><th>Skills</th></tr>
+
+<tr>
+<td><b>🐍 Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ Cloud & Big Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 Machine Learning</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>📊 Visualization</b></td>
+<td>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>🧩 Dashboards & Apps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Dash-0176B6?style=for-the-badge&logo=plotly&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>🧪 IDEs</b></td>
+<td>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-00C4B7?style=for-the-badge&logo=pycharm&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ DevOps, OS & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/PuTTY-354A5F?style=for-the-badge&logo=putty&logoColor=white" />
+<img src="https://img.shields.io/badge/WinSCP-004B87?style=for-the-badge&logo=winscp&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>📋 Project Management</b></td>
+<td>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</td>
+</tr>
+
+</table>
+
+
+
 
 ---
 
