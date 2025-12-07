@@ -3,18 +3,9 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=1600&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Akram+Khan;Data+Analyst;Machine+Learning+Engineer;AI+Builder;Transforming+Data+Into+Intelligence;Decrypting+Insights+From+Data" />
-</p>
+</p> -->
 
 
 <p align="center">
