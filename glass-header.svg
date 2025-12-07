@@ -1,0 +1,33 @@
+<svg width="900" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glass" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.25 0" result="blurAlpha"/>
+      <feBlend in="SourceGraphic" in2="blurAlpha" mode="normal"/>
+    </filter>
+
+    <linearGradient id="border" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#00A8FF"/>
+      <stop offset="100%" stop-color="#1E90FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Glass Panel -->
+  <rect x="10" y="10" width="880" height="140" rx="20"
+        fill="rgba(255,255,255,0.12)" 
+        stroke="url(#border)" stroke-width="3"
+        filter="url(#glass)"/>
+
+  <!-- Title -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        fill="#E0F7FF" font-size="28" font-family="Orbitron" font-weight="600">
+        Welcome to Akram Khan's GitHub
+  </text>
+
+  <!-- Subtitle -->
+  
+</svg>
