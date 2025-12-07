@@ -1,4 +1,16 @@
-<h1 align="center">Hi! Welcome to Akram Khan's GitHub</h1>
+<p align="center">
+  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/glass-header.svg" width="900" />
+</p>
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=1600&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Akram+Khan;Data+Analyst;Machine+Learning+Engineer;AI+Builder;Transforming+Data+Into+Intelligence;Decrypting+Insights+From+Data" />
