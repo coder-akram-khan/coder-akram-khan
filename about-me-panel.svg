@@ -1,0 +1,70 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Particles & Effects -->
+  <defs>
+    <radialGradient id="particle-about" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00A8FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00A8FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur-about">
+      <feGaussianBlur stdDeviation="15" />
+    </filter>
+    <!-- Animated Neon Border -->
+    <linearGradient id="neonBorder-about">
+      <stop offset="0%" stop-color="#00A8FF">
+        <animate attributeName="stop-color" values="#00A8FF; #1E90FF; #00A8FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1E90FF">
+        <animate attributeName="stop-color" values="#1E90FF; #00A8FF; #1E90FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <!-- Soft Scanlines -->
+    <pattern id="scanlines-about" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.13"/>
+    </pattern>
+  </defs>
+  <!-- Floating Particles -->
+  <circle cx="130" cy="60" r="16" fill="url(#particle-about)" filter="url(#blur-about)">
+    <animate attributeName="cx" values="130;300;130" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;110;60" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="130" r="10" fill="url(#particle-about)" filter="url(#blur-about)">
+    <animate attributeName="cx" values="760;620;760" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="130;80;130" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Glass Panel -->
+  <rect x="20" y="20" width="860" height="160" rx="22"
+        fill="rgba(255,255,255,0.12)"
+        stroke="url(#neonBorder-about)" stroke-width="3" />
+  <!-- Scanline Effect -->
+  <rect x="20" y="20" width="860" height="160" rx="22"
+        fill="url(#scanlines-about)" opacity="0.18" />
+  <!-- LEFT SIDE: About Me -->
+  <text x="60" y="70" fill="#C7EAFF" font-size="22" font-family="Orbitron, Arial, sans-serif" font-weight="700">
+    Akram Khan
+  </text>
+  <text x="60" y="100" fill="#9EDCFF" font-size="15" font-family="Orbitron, Arial, sans-serif">
+    Data Analyst · Machine Learning Engineer · AI Solutions Builder
+  </text>
+  <text x="60" y="130" fill="#D9F4FF" font-size="13" font-family="Orbitron, Arial, sans-serif">
+    I design data-driven systems that turn raw information
+  </text>
+  <text x="60" y="150" fill="#D9F4FF" font-size="13" font-family="Orbitron, Arial, sans-serif">
+    into scalable analytics, automation, and intelligent products.
+  </text>
+  <!-- RIGHT SIDE: Focus Areas -->
+  <text x="500" y="70" fill="#C7EAFF" font-size="18" font-family="Orbitron, Arial, sans-serif" font-weight="700">
+    Core Focus Areas
+  </text>
+  <text x="500" y="100" fill="#9EDCFF" font-size="13" font-family="Orbitron, Arial, sans-serif">
+    • Cloud Data &amp; ETL/ELT on Azure
+  </text>
+  <text x="500" y="120" fill="#9EDCFF" font-size="13" font-family="Orbitron, Arial, sans-serif">
+    • Machine Learning for business decisions
+  </text>
+  <text x="500" y="140" fill="#9EDCFF" font-size="13" font-family="Orbitron, Arial, sans-serif">
+    • AI-powered dashboards &amp; automation
+  </text>
+  <text x="500" y="160" fill="#9EDCFF" font-size="13" font-family="Orbitron, Arial, sans-serif">
+    • Practical, end-to-end project delivery
+  </text>
+</svg>
