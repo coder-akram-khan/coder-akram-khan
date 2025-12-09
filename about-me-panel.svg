@@ -110,7 +110,7 @@
   </circle>
   
   <!-- LEFT SIDE: About Me -->
-  <text x="60" y="65" fill="#E0F7FF" font-size="24" font-family="Orbitron, Arial, sans-serif" font-weight="700" filter="url(#glow-effect)">
+  <text x="60" y="65" fill="#E0F7FF" font-size="24" font-family="Orbitron, Arial, sans-serif" font-weight="700">
     Akram Khan
   </text>
   
@@ -134,7 +134,7 @@
   <line x1="475" y1="50" x2="475" y2="170" stroke="url(#border-gradient)" stroke-width="2" opacity="0.3"/>
   
   <!-- RIGHT SIDE: Focus Areas -->
-  <text x="510" y="65" fill="#E0F7FF" font-size="19" font-family="Orbitron, Arial, sans-serif" font-weight="700" filter="url(#glow-effect)">
+  <text x="510" y="65" fill="#E0F7FF" font-size="19" font-family="Orbitron, Arial, sans-serif" font-weight="700">
     Core Focus Areas
   </text>
   
