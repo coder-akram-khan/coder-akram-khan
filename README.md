@@ -9,8 +9,22 @@
 
 
 <!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coder-akram-khan&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" />
 </p> -->
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Repos-30+-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-1000+-00A8FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-15+-00CFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-100+-0099FF?style=for-the-badge" />
+</p> -->
+
+
+
+
+
 
 
 
@@ -40,8 +54,10 @@
 
   <br/><br/>
 
-  <!-- GitHub Streak Stats (Centered) -->
-  <img src="https://streak-stats.demolab.com?user=coder-akram-khan&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="820" />
+  <!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=coder-akram-khan&theme=tokyonight&hide_border=true" width="820" />
+</p>
 
   <br/><br/>
 
