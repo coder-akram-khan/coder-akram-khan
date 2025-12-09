@@ -1,96 +1,207 @@
-<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-
-<!-- ✦ STARFIELD BACKGROUND ✦ -->
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#00CFFF" stop-opacity="0.9"/>
-    <stop offset="100%" stop-color="#00CFFF" stop-opacity="0"/>
+  <!-- Enhanced Star Glow -->
+  <radialGradient id="starGlow">
+    <stop offset="0%" stop-color="#00FFFF" stop-opacity="1"/>
+    <stop offset="50%" stop-color="#00CFFF" stop-opacity="0.6"/>
+    <stop offset="100%" stop-color="#0088FF" stop-opacity="0"/>
   </radialGradient>
-
-  <!-- Background Stars -->
-  <pattern id="stars" width="40" height="40" patternUnits="userSpaceOnUse">
-    <circle cx="3" cy="3" r="1" fill="#88CCFF" />
-    <circle cx="25" cy="12" r="1" fill="#88CCFF" />
-    <circle cx="10" cy="30" r="1" fill="#88CCFF" />
-    <circle cx="35" cy="28" r="1" fill="#88CCFF" />
+  
+  <!-- Particle Glow -->
+  <radialGradient id="particleGlow">
+    <stop offset="0%" stop-color="#00FFCC" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#0099FF" stop-opacity="0"/>
+  </radialGradient>
+  
+  <!-- Dynamic Background Stars -->
+  <pattern id="stars" width="60" height="60" patternUnits="userSpaceOnUse">
+    <circle cx="5" cy="5" r="1.5" fill="#88CCFF" opacity="0.8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="35" cy="15" r="1" fill="#66BBFF" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="15" cy="40" r="1.2" fill="#99DDFF" opacity="0.7">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50" cy="35" r="0.8" fill="#AAEEFF" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
   </pattern>
-
-  <!-- Supernova Neon Border Animation -->
-  <linearGradient id="supernovaBorder">
-    <stop offset="0%" stop-color="#00A8FF">
-      <animate attributeName="stop-color" values="#00A8FF; #33DDFF; #00A8FF" dur="2.2s" repeatCount="indefinite"/>
+  
+  <!-- Animated Rainbow Border -->
+  <linearGradient id="rainbowBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00D4FF">
+      <animate attributeName="stop-color" values="#00D4FF; #00FFCC; #0099FF; #00D4FF" dur="4s" repeatCount="indefinite"/>
     </stop>
-    <stop offset="100%" stop-color="#33DDFF">
-      <animate attributeName="stop-color" values="#33DDFF; #00A8FF; #33DDFF" dur="2.2s" repeatCount="indefinite"/>
+    <stop offset="50%" stop-color="#00FFCC">
+      <animate attributeName="stop-color" values="#00FFCC; #0099FF; #00D4FF; #00FFCC" dur="4s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#0099FF">
+      <animate attributeName="stop-color" values="#0099FF; #00D4FF; #00FFCC; #0099FF" dur="4s" repeatCount="indefinite"/>
     </stop>
   </linearGradient>
-
-  <!-- Blur -->
-  <filter id="blur">
-    <feGaussianBlur stdDeviation="12"/>
+  
+  <!-- Glass Background -->
+  <linearGradient id="glassBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.08"/>
+  </linearGradient>
+  
+  <!-- Text Glow -->
+  <filter id="textGlow">
+    <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
   </filter>
-
-  <!-- Glitch Effect -->
-  <filter id="glitch">
-    <feTurbulence type="fractalNoise" baseFrequency="0.009" numOctaves="3" result="noise"/>
-    <feDisplacementMap in="SourceGraphic" in2="noise" scale="5" />
+  
+  <!-- Soft Blur -->
+  <filter id="softBlur">
+    <feGaussianBlur stdDeviation="15"/>
+  </filter>
+  
+  <!-- Sharp Glow -->
+  <filter id="sharpGlow">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
   </filter>
 </defs>
 
-<!-- ✦ STARFIELD ✦ -->
-<rect width="900" height="260" fill="black"/>
-<rect width="900" height="260" fill="url(#stars)" opacity="0.35">
-  <animate attributeName="opacity" values="0.2;0.35;0.2" dur="6s" repeatCount="indefinite"/>
+<!-- Background -->
+<rect width="900" height="260" fill="#000814"/>
+
+<!-- Starfield Layer 1 (Far) -->
+<rect width="900" height="260" fill="url(#stars)" opacity="0.4">
+  <animateTransform attributeName="transform" type="translate" 
+    values="0,0; -60,0; 0,0" dur="40s" repeatCount="indefinite"/>
 </rect>
 
-<!-- ✦ FLOATING PARTICLES (PARALLAX) ✦ -->
-<circle cx="140" cy="80" r="16" fill="url(#starGlow)" filter="url(#blur)">
-  <animate attributeName="cx" values="140;760;140" dur="20s" repeatCount="indefinite"/>
-  <animate attributeName="cy" values="80;180;80" dur="15s" repeatCount="indefinite"/>
-</circle>
-
-<circle cx="700" cy="180" r="10" fill="url(#starGlow)" filter="url(#blur)">
-  <animate attributeName="cx" values="700;200;700" dur="18s" repeatCount="indefinite"/>
-  <animate attributeName="cy" values="180;60;180" dur="12s" repeatCount="indefinite"/>
-</circle>
-
-<!-- ✦ ENERGY RIPPLE RING ✦ -->
-<circle cx="450" cy="130" r="30" stroke="#33DDFF" stroke-width="2" fill="none" opacity="0.7">
-  <animate attributeName="r" values="30;180" dur="3s" repeatCount="indefinite"/>
-  <animate attributeName="opacity" values="0.7;0" dur="3s" repeatCount="indefinite"/>
-</circle>
-
-<!-- ✦ HOLOGRAM SCAN LINE ✦ -->
-<rect x="0" y="0" width="900" height="5" fill="#33DDFF" opacity="0.15">
-  <animate attributeName="y" values="0;260;0" dur="4.5s" repeatCount="indefinite"/>
+<!-- Starfield Layer 2 (Near) -->
+<rect width="900" height="260" fill="url(#stars)" opacity="0.3">
+  <animateTransform attributeName="transform" type="translate" 
+    values="0,0; 60,0; 0,0" dur="30s" repeatCount="indefinite"/>
 </rect>
 
-<!-- ✦ GLASS PANEL ✦ -->
+<!-- Large Floating Orbs -->
+<circle cx="120" cy="70" r="25" fill="url(#particleGlow)" filter="url(#softBlur)" opacity="0.5">
+  <animate attributeName="cx" values="120;780;120" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="70;190;70" dur="13s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="750" cy="200" r="18" fill="url(#starGlow)" filter="url(#softBlur)" opacity="0.4">
+  <animate attributeName="cx" values="750;150;750" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="200;60;200" dur="15s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="450" cy="50" r="12" fill="url(#particleGlow)" filter="url(#softBlur)" opacity="0.35">
+  <animate attributeName="cx" values="450;500;450" dur="8s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="50;80;50" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Energy Ripples -->
+<circle cx="450" cy="130" r="50" stroke="#00D4FF" stroke-width="2" fill="none" opacity="0">
+  <animate attributeName="r" values="40;200" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.8;0" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="450" cy="130" r="50" stroke="#00FFCC" stroke-width="2" fill="none" opacity="0">
+  <animate attributeName="r" values="40;200" dur="4s" begin="2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.6;0" dur="4s" begin="2s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Hologram Scan Lines -->
+<rect x="0" y="0" width="900" height="3" fill="#00FFCC" opacity="0.2">
+  <animate attributeName="y" values="-10;270" dur="5s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="0" y="0" width="900" height="2" fill="#00D4FF" opacity="0.15">
+  <animate attributeName="y" values="-10;270" dur="6s" begin="1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Main Glass Panel with Shadow -->
+<rect x="28" y="42" width="844" height="184" rx="24" fill="#000000" opacity="0.4"/>
+
 <rect x="30" y="40" width="840" height="180" rx="22"
-      fill="rgba(255,255,255,0.10)"
-      stroke="url(#supernovaBorder)" stroke-width="4"
-      filter="url(#blur)" opacity="0.95"/>
+      fill="url(#glassBg)"
+      stroke="url(#rainbowBorder)" stroke-width="3"/>
 
-<!-- ✦ NEON CORNER SHARDS ✦ -->
-<polygon points="30,40 70,40 30,60" fill="#33DDFF" opacity="0.7">
-  <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+<!-- Inner Glow Border -->
+<rect x="33" y="43" width="834" height="174" rx="20"
+      fill="none" stroke="#00D4FF" stroke-width="1" opacity="0.4"/>
+
+<!-- Decorative Corner Elements -->
+<polygon points="30,40 85,40 30,70" fill="#00D4FF" opacity="0.5">
+  <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="870,40 815,40 870,70" fill="#00FFCC" opacity="0.5">
+  <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.3s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="30,220 85,220 30,190" fill="#0099FF" opacity="0.5">
+  <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="870,220 815,220 870,190" fill="#00D4FF" opacity="0.5">
+  <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.1s" repeatCount="indefinite"/>
 </polygon>
 
-<polygon points="870,40 830,40 870,60" fill="#33DDFF" opacity="0.7">
-  <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
-</polygon>
+<!-- Corner Accent Dots -->
+<circle cx="60" cy="60" r="4" fill="#00FFCC" filter="url(#sharpGlow)">
+  <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="840" cy="60" r="4" fill="#00D4FF" filter="url(#sharpGlow)">
+  <animate attributeName="r" values="3;5;3" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="60" cy="200" r="4" fill="#0099FF" filter="url(#sharpGlow)">
+  <animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="840" cy="200" r="4" fill="#00FFCC" filter="url(#sharpGlow)">
+  <animate attributeName="r" values="3;5;3" dur="2.1s" repeatCount="indefinite"/>
+</circle>
 
-<!-- ✦ GLITCH TITLE ✦ -->
-<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      fill="#D7F6FF" font-family="Orbitron" font-size="32" font-weight="700">
-      <!-- filter="url(#glitch)"> -->
+<!-- Central Decorative Elements -->
+<line x1="450" y1="85" x2="450" y2="115" stroke="url(#rainbowBorder)" stroke-width="2" opacity="0.6">
+  <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+</line>
+
+<circle cx="450" cy="100" r="6" fill="none" stroke="#00FFCC" stroke-width="2" opacity="0.7">
+  <animate attributeName="r" values="5;8;5" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Main Title -->
+<text x="450" y="115" text-anchor="middle"
+      fill="#FFFFFF" font-family="Orbitron, Arial, sans-serif" font-size="36" font-weight="700">
   Welcome to Akram Khan's GitHub
 </text>
 
-<!-- ✦ SUBTITLE ✦ -->
-<text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle"
-      fill="#AEE7FF" font-family="Orbitron" font-size="20">
+<!-- Subtitle Line -->
+<line x1="200" y1="145" x2="700" y2="145" stroke="url(#rainbowBorder)" stroke-width="1" opacity="0.4">
+  <animate attributeName="x1" values="350;200;350" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="550;700;550" dur="4s" repeatCount="indefinite"/>
+</line>
+
+<!-- Subtitle -->
+<text x="450" y="175" text-anchor="middle"
+      fill="#B3E5FF" font-family="Orbitron, Arial, sans-serif" font-size="18" font-weight="500">
   Data Analytics | Machine Learning | AI Innovation
 </text>
+
+<!-- Small Accent Particles Around Text -->
+<circle cx="180" cy="115" r="2" fill="#00FFCC" opacity="0.8">
+  <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="720" cy="115" r="2" fill="#00D4FF" opacity="0.8">
+  <animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="250" cy="175" r="1.5" fill="#0099FF" opacity="0.7">
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="650" cy="175" r="1.5" fill="#00FFCC" opacity="0.7">
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+</circle>
 
 </svg>
