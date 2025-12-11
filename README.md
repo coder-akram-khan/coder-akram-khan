@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/tech.svg" width="900" />
+</p>
+
+<p align="center">
   <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/about-me-panel.svg" width="900" />
 </p>
 
