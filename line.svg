@@ -1,0 +1,138 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Animated Gradient for Main Line -->
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0">
+        <animate attributeName="stop-opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00FFCC" stop-opacity="1">
+        <animate attributeName="offset" values="0;0.5;1" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0099FF" stop-opacity="0">
+        <animate attributeName="stop-opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Glow Effect -->
+    <filter id="line-glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Pulse Glow -->
+    <filter id="pulse-glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Particle Gradient -->
+    <radialGradient id="particle-gradient">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background Subtle Glow -->
+  <ellipse cx="450" cy="40" rx="400" ry="30" fill="#00A8FF" opacity="0.05">
+    <animate attributeName="opacity" values="0.05;0.15;0.05" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- Main Horizontal Line (Base) -->
+  <line x1="50" y1="40" x2="850" y2="40" stroke="#00A8FF" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Animated Gradient Line (Moving) -->
+  <line x1="50" y1="40" x2="850" y2="40" stroke="url(#line-gradient)" stroke-width="3" filter="url(#line-glow)" stroke-linecap="round"/>
+  
+  <!-- Center Diamond Ornament -->
+  <g transform="translate(450, 40)">
+    <circle r="8" fill="#00D4FF" opacity="0.2"/>
+    <circle r="5" fill="#00D4FF" opacity="0.5">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2" fill="#E0F7FF">
+      <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Left Side Ornament -->
+  <g transform="translate(200, 40)">
+    <circle r="4" fill="#00FFCC" opacity="0.4">
+      <animate attributeName="r" values="4;5;4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.5" fill="#E0F7FF"/>
+  </g>
+  
+  <!-- Right Side Ornament -->
+  <g transform="translate(700, 40)">
+    <circle r="4" fill="#0099FF" opacity="0.4">
+      <animate attributeName="r" values="4;5;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.5" fill="#E0F7FF"/>
+  </g>
+  
+  <!-- Traveling Particles -->
+  <circle cx="50" cy="40" r="3" fill="url(#particle-gradient)" filter="url(#pulse-glow)" opacity="0.8">
+    <animate attributeName="cx" values="50;850;50" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.1;0.9;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="850" cy="40" r="2.5" fill="#00FFCC" filter="url(#pulse-glow)" opacity="0.7">
+    <animate attributeName="cx" values="850;50;850" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" keyTimes="0;0.1;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="450" cy="40" r="2" fill="#0099FF" filter="url(#pulse-glow)" opacity="0.6">
+    <animate attributeName="cx" values="450;850;50;450" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0.6;0" keyTimes="0;0.1;0.5;0.9;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Subtle Wave Effect -->
+  <path d="M 50 40 Q 150 35, 250 40 T 450 40 T 650 40 T 850 40" 
+        stroke="#00D4FF" stroke-width="1" fill="none" opacity="0.2">
+    <animate attributeName="d" 
+             values="M 50 40 Q 150 35, 250 40 T 450 40 T 650 40 T 850 40;
+                     M 50 40 Q 150 45, 250 40 T 450 40 T 650 40 T 850 40;
+                     M 50 40 Q 150 35, 250 40 T 450 40 T 650 40 T 850 40" 
+             dur="4s" 
+             repeatCount="indefinite"/>
+  </path>
+  
+  <!-- End Point Glows -->
+  <circle cx="50" cy="40" r="4" fill="#00D4FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="850" cy="40" r="4" fill="#00FFCC" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Small Accent Dots Above Line -->
+  <circle cx="350" cy="30" r="1.5" fill="#00D4FF" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;28;30" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="550" cy="30" r="1.5" fill="#00FFCC" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;28;30" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Small Accent Dots Below Line -->
+  <circle cx="300" cy="50" r="1.5" fill="#0099FF" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;52;50" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="600" cy="50" r="1.5" fill="#00D4FF" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;52;50" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
