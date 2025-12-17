@@ -210,39 +210,6 @@
 
 <!-- ================= PROJECT 1 ================= -->
 <td width="50%">
-  <h3 align="center">🛒 Blinkit Sales Analysis</h3>
-
-  <p align="center">
-    <a href="https://github.com/coder-akram-khan/blinkit-sales-analysis">
-      <img src="https://raw.githubusercontent.com/coder-akram-khan/blinkit-sales-analysis/main/BlinkitDataAnalysis.png"
-           width="85%" />
-    </a>
-  </p>
-
-  <p align="center">End-to-end EDA + ML project analyzing Blinkit sales performance.</p>
-
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/coder-akram-khan/blinkit-sales-analysis?color=39FF14&style=flat" />
-    <img src="https://img.shields.io/github/forks/coder-akram-khan/blinkit-sales-analysis?color=39FF14&style=flat" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/EDA-03C988?style=flat-square" />
-    <img src="https://img.shields.io/badge/ML_Modeling-8E44AD?style=flat-square" />
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/coder-akram-khan/blinkit-sales-analysis">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</td>
-
-
-<!-- ================= PROJECT 2 ================= -->
-<td width="50%">
   <h3 align="center">🏦 Loan Approval Prediction App</h3>
 
   <p align="center">
@@ -268,6 +235,40 @@
 
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App">
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</td>
+
+
+<!-- ================= PROJECT 2 ================= -->
+<td width="50%">
+  <h3 align="center">☁️ Azure Sales Data Pipeline</h3>
+
+  <p align="center">
+    <a href="https://github.com/coder-akram-khan/azure-sales-data-pipeline">
+      <img src="https://github.com/coder-akram-khan/azure-sales-data-pipeline/blob/main/project%20architecture.png"
+           width="85%" />
+    </a>
+  </p>
+
+  <p align="center">Azure ETL/ELT platform migrating on-prem data for cloud transformation and Power BI analytics.</p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/azure-sales-data-pipeline?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/azure-sales-data-pipeline?color=39FF14&style=flat" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure_Databricks-FC4C02?logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/coder-akram-khan/azure-sales-data-pipeline">
       <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
