@@ -45,7 +45,7 @@
   <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/glass-header.svg" width="900" />
 </p> -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats  
 
@@ -87,119 +87,475 @@
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Technical Skills
+## Technical Arsenal
 
-<table align="center">
-<tr><th>Category</th><th>Skills</th></tr>
+<div align="center">
 
+### *Transforming Data into Intelligence*
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  "In Data We Trust, With Analytics We Decide,               │
+│   Through AI We Transform"                                  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Journey](https://img.shields.io/badge/Journey-Data_Explorer_→_AI_Architect-blueviolet?style=for-the-badge)
+![Mission](https://img.shields.io/badge/Mission-Turning_Insights_Into_Impact-success?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## My Data Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[📊 Data Collection] -->|Clean & Transform| B[🔍 Analysis]
+    B -->|Visualize| C[📈 Insights]
+    C -->|Model| D[🤖 ML/AI]
+    D -->|Deploy| E[💡 Impact]
+    
+    style A fill:#4285f4,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#34a853,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#fbbc04,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#ea4335,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#9c27b0,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>
+<summary align="center"><b>Click to Expand My Complete Skill Ecosystem</b></summary>
+<br/>
+
+<table>
 <tr>
-<td><b>🐍 Programming</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<td colspan="2" align="center" bgcolor="#4285f4">
+<h3 style="color:white;">FOUNDATION LAYER: Programming & Scripting</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br/><b>Python</b>
+<br/>━━━━━━━━━━ 95%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Primary Weapon</i></sub>
+</td>
+<td width="70%">
+<b>Use Cases:</b> Data Analysis • ML Pipelines • Automation • ETL<br/>
+<b>Libraries Mastered:</b> Pandas, NumPy, Scikit-learn, TensorFlow<br/>
+<b>Strength:</b> Building end-to-end data solutions
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br/><b>R</b>
+<br/>━━━━━━━━░░ 85%
+<br/>⭐⭐⭐⭐
+<br/><sub><i>Statistical Powerhouse</i></sub>
+</td>
+<td width="70%">
+<b>Use Cases:</b> Statistical Analysis • Data Visualization • Research<br/>
+<b>Packages:</b> ggplot2, dplyr, tidyr, caret<br/>
+<b>Strength:</b> Advanced statistical modeling
 </td>
 </tr>
-
 <tr>
-<td><b>🗄️ Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/HTML5_+_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<br/><b>Web Tech</b>
+<br/>━━━━━━━░░░ 78%
+<br/>⭐⭐⭐⭐
+<br/><sub><i>Dashboard Builder</i></sub>
+</td>
+<td width="70%">
+<b>Use Cases:</b> Interactive Dashboards • Reporting • Web Apps<br/>
+<b>Frameworks:</b> Streamlit, Dash, Flask<br/>
+<b>Strength:</b> Creating user-friendly interfaces
 </td>
 </tr>
-
-<tr>
-<td><b>☁️ Cloud & Big Data</b></td>
-<td>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>🤖 Machine Learning</b></td>
-<td>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>📊 Visualization</b></td>
-<td>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=seaborn&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>🧩 Dashboards & Apps</b></td>
-<td>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Dash-0176B6?style=for-the-badge&logo=plotly&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>🧪 IDEs</b></td>
-<td>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" />
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-00C4B7?style=for-the-badge&logo=pycharm&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>🛠️ DevOps, OS & Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PuTTY-354A5F?style=for-the-badge&logo=putty&logoColor=white" />
-<img src="https://img.shields.io/badge/WinSCP-004B87?style=for-the-badge&logo=winscp&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td><b>📋 Project Management</b></td>
-<td>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</td>
-</tr>
-
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔥 Featured Projects
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#34a853">
+<h3 style="color:white;">DATA LAYER: Storage & Querying</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/SQL_Mastery-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br/><b>SQL Expertise</b>
+<br/>━━━━━━━━━░ 90%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Query Architect</i></sub>
+</td>
+<td width="70%">
+<b>Databases:</b> MySQL, PostgreSQL, SQL Server, SQLite<br/>
+<b>Skills:</b> Complex Joins • Window Functions • Query Optimization<br/>
+<b>Specialty:</b> Performance tuning & data warehousing
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#fbbc04">
+<h3>CLOUD LAYER: Scalable Infrastructure</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<br/><b>Azure Ecosystem</b>
+<br/>━━━━━━━━━░ 90%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Cloud Architect</i></sub>
+</td>
+<td width="70%">
+<b>Services:</b> Data Factory • Synapse • Databricks • Storage<br/>
+<b>Skills:</b> Pipeline Development • Data Warehousing • ETL/ELT<br/>
+<b>Specialty:</b> Building scalable data platforms
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<br/><b>Apache Spark</b>
+<br/>━━━━━━━━░░ 80%
+<br/>⭐⭐⭐⭐
+<br/><sub><i>Big Data Engineer</i></sub>
+</td>
+<td width="70%">
+<b>Use Cases:</b> Large-scale Processing • Real-time Analytics<br/>
+<b>Skills:</b> PySpark • SparkSQL • MLlib • Streaming<br/>
+<b>Specialty:</b> Processing terabytes of data efficiently
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#ea4335">
+<h3 style="color:white;">INTELLIGENCE LAYER: ML & AI</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<br/><b>ML Toolkit</b>
+<br/>━━━━━━━━░░ 85%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Model Builder</i></sub>
+</td>
+<td width="70%">
+<b>Libraries:</b> Scikit-learn • TensorFlow • Spark MLlib<br/>
+<b>Algorithms:</b> Classification • Regression • Clustering • Neural Networks<br/>
+<b>Specialty:</b> End-to-end ML pipeline development
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br/><b>DS Libraries</b>
+<br/>━━━━━━━━━━ 95%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Data Wizard</i></sub>
+</td>
+<td width="70%">
+<b>Stack:</b> NumPy • Pandas • SciPy • Statsmodels<br/>
+<b>Skills:</b> Feature Engineering • Statistical Analysis • Time Series<br/>
+<b>Specialty:</b> Turning messy data into insights
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#9c27b0">
+<h3 style="color:white;">VISUALIZATION LAYER: Storytelling with Data</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<br/><b>Power BI</b>
+<br/>━━━━━━━━━░ 90%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Business Intelligence</i></sub>
+</td>
+<td width="70%">
+<b>Expertise:</b> Interactive Dashboards • DAX • M Query • Reports<br/>
+<b>Skills:</b> Data Modeling • KPI Design • Automated Reporting<br/>
+<b>Impact:</b> Empowering stakeholders with self-service analytics
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Python_Viz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<br/><b>Visualization</b>
+<br/>━━━━━━━━░░ 88%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Chart Master</i></sub>
+</td>
+<td width="70%">
+<b>Tools:</b> Matplotlib • Seaborn • Plotly • Bokeh<br/>
+<b>Skills:</b> Custom Charts • Interactive Plots • 3D Visualization<br/>
+<b>Specialty:</b> Creating publication-ready visualizations
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Web_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<br/><b>Streamlit & Dash</b>
+<br/>━━━━━━━━░░ 87%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>App Developer</i></sub>
+</td>
+<td width="70%">
+<b>Use Cases:</b> ML Demos • Data Apps • Interactive Tools<br/>
+<b>Skills:</b> Rapid Prototyping • User Interface • Real-time Updates<br/>
+<b>Impact:</b> Making ML models accessible to everyone
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#0f9d58">
+<h3 style="color:white;">DEVELOPMENT LAYER: Tools & Environment</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/IDEs-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<br/><b>Dev Environments</b>
+<br/>━━━━━━━━━░ 93%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Code Commander</i></sub>
+</td>
+<td width="70%">
+<b>Tools:</b> VS Code • Jupyter • PyCharm • RStudio • Anaconda<br/>
+<b>Skills:</b> Efficient Coding • Debugging • Extensions • Shortcuts<br/>
+<b>Productivity:</b> Lightning-fast development workflow
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/DevOps-181717?style=for-the-badge&logo=github&logoColor=white" />
+<br/><b>Version Control</b>
+<br/>━━━━━━━━━░ 90%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Collaboration Pro</i></sub>
+</td>
+<td width="70%">
+<b>Stack:</b> Git • GitHub • Jenkins • CI/CD Pipelines<br/>
+<b>Skills:</b> Branching • Merging • Code Reviews • Automation<br/>
+<b>Practice:</b> Clean commits, collaborative development
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/OS_&_Tools-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<br/><b>Systems</b>
+<br/>━━━━━━━━░░ 88%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>System Navigator</i></sub>
+</td>
+<td width="70%">
+<b>Platforms:</b> Windows • Linux (Ubuntu) • Cloud Environments<br/>
+<b>Skills:</b> Shell Scripting • Remote Access • System Admin<br/>
+<b>Tools:</b> PuTTY • WinSCP • Terminal
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#0052cc">
+<h3 style="color:white;">COLLABORATION LAYER: Teamwork & Management</h3>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<br/><b>Agile & PM</b>
+<br/>━━━━━━━━░░ 88%
+<br/>⭐⭐⭐⭐⭐
+<br/><sub><i>Project Organizer</i></sub>
+</td>
+<td width="70%">
+<b>Methodology:</b> Agile • Scrum • Kanban<br/>
+<b>Skills:</b> Sprint Planning • Task Management • Team Coordination<br/>
+<b>Impact:</b> Delivering projects on time, every time
+</td>
+</tr>
+</table>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## My Specialization Matrix
+
+<div align="center">
+
+```
+         DATA ENGINEERING        DATA SCIENCE         ML/AI DEPLOYMENT
+              ████████                ██████              ████████
+               88%                     85%                  82%
+                │                       │                    │
+                └───────────┬───────────┴────────────────────┘
+                            │
+                    ┌───────▼───────┐
+                    │  FULL-STACK   │
+                    │ DATA ANALYST  │
+                    └───────────────┘
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## What Drives Me
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### **Curiosity**
+*Every dataset tells a story*
+
+I'm driven by the desire to uncover hidden patterns and extract meaningful insights from complex data
+
+</td>
+<td width="33%" align="center">
+
+### **Impact**
+*Data for decisions*
+
+Building solutions that transform business decisions and create real-world impact
+
+</td>
+<td width="33%" align="center">
+
+### **Innovation**
+*Always learning*
+
+Staying at the cutting edge of AI/ML technologies to solve tomorrow's problems today
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Current Learning Path
+
+<div align="center">
+
+```mermaid
+timeline
+    title My Journey
+    section Q1-Q2
+        Advanced Deep Learning : Neural Networks
+                                : Transfer Learning
+        MLOps Mastery : Model Deployment
+                       : CI/CD for ML
+    section Q3-Q4
+        Cloud Architecture : Multi-cloud Solutions
+                           : Serverless Computing
+        AI Applications : NLP Projects
+                        : Computer Vision
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## My Data Philosophy
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  📊 "Data is not just numbers, it's the voice of your     ║
+║      business waiting to be heard"                        ║
+║                                                           ║
+║  🎯 "Analytics is not about having all the answers,       ║
+║      it's about asking the right questions"               ║
+║                                                           ║
+║  🤖 "AI doesn't replace humans, it amplifies our          ║
+║      ability to make better decisions"                    ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Fun Stats
+
+<div align="center">
+
+| Metric | Value | Achievement |
+|:------:|:-----:|:-----------:|
+| 📊 **Datasets Analyzed** | 500+ | From small to petabyte scale |
+| 🤖 **ML Models Built** | 100+ | Classification to Deep Learning |
+| 📈 **Dashboards Created** | 50+ | Empowering data-driven decisions |
+| ☕ **Coffee Consumed** | ∞ | Fueled by caffeine and curiosity |
+| 🎓 **Courses Completed** | 25+ | Never stop learning |
+| 💡 **Problems Solved** | 1000+ | Each one a learning opportunity |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Ready for the Next Challenge
+
+<div align="center">
+
+### Open to Opportunities In:
+
+`Advanced Analytics` • `Machine Learning Engineering` • `Data Architecture`
+`Business Intelligence` • `AI Solutions` • `Data Strategy`
+
+<br/>
+
+**Let's turn your data into actionable intelligence!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-akram-khan)
+[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akram.codes.it@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+###  Featured Projects
 
 <table>
 <tr>
@@ -344,7 +700,8 @@
 </table>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 📚 Build in Public — Knowledge Hub
 
@@ -433,7 +790,8 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### ✨ Fun Fact  
 
@@ -446,7 +804,9 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ### 📫 Let’s Connect  
 
@@ -474,7 +834,8 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <table align="center">
   <tr>
@@ -498,7 +859,8 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center">
   <i>"Turning data into intelligent systems that solve real-world problems."</i><br/>
