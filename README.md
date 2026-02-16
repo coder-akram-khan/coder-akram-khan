@@ -1,56 +1,29 @@
 <p align="center">
-  <a href ="#"> <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/glass-header.svg" width="900" draggable="false" style="pointer-events: none;" /></a>
+  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/glass-header.svg" width="100%" style="max-width: 900px;" alt="Akram Khan - Data Analyst & ML Engineer" draggable="false" />
 </p>
-<!-- <p align="center">
-  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/line.svg" width="900" />
-</p> -->
-<p align="center">
-  <a href ="#"> <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/tech.svg" width="900" draggable="false" style="pointer-events: none;" /> </a>
-</p>
-<p align="center">
-  <a href ="#"> <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/about-me-panel.svg" width="900" draggable="false" style="pointer-events: none;" /> </a>
-</p>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=1600&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Akram+Khan;Data+Analyst;Machine+Learning+Engineer;AI+Builder;Transforming+Data+Into+Intelligence;Decrypting+Insights+From+Data" />
-</p> -->
-
-
-<!-- <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Repos-30+-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-1000+-00A8FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-15+-00CFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-100+-0099FF?style=for-the-badge" />
-</p> -->
-
-
-
-
-
-
-
-
-
-
-
-<!-- GitHub Contribution Graph -->
-<!-- 🚀 Sci-Fi GitHub Stats -->
-
-<!-- <p align="center">
-  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/glass-header.svg" width="900" />
-</p> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coder-akram-khan&style=for-the-badge&color=39FF14" />
+  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/tech.svg" width="100%" style="max-width: 900px;" alt="Technology Stack Banner" draggable="false" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/about-me-panel.svg" width="100%" style="max-width: 900px;" alt="About Me Panel" draggable="false" />
+</p>
+
+<div align="center">
+
+### 📑 Quick Navigation
+
+[📊 Stats](#-github-stats) • [💻 Skills](#technical-arsenal) • [🚀 Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coder-akram-khan&style=for-the-badge&color=39FF14" alt="Profile Views Counter" />
 </p>
 
 <details>
@@ -58,36 +31,32 @@
 <br/>
 
 <p align="center">
-  <!-- GitHub Stats + Top Languages -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub Stats" loading="lazy" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" loading="lazy" />
 </p>
 
 <br/>
 
 <p align="center">
-  <!-- Neon Contribution Graph -->
-  <img src="https://ghchart.rshah.org/39ff14/coder-akram-khan" width="820" />
+  <img src="https://ghchart.rshah.org/39ff14/coder-akram-khan" width="100%" style="max-width: 820px;" alt="Contribution Graph" loading="lazy" />
 </p>
 
 <br/>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.vercel.app/?user=coder-akram-khan&theme=tokyonight&hide_border=true" width="820" />
+  <img src="https://streak-stats.vercel.app/?user=coder-akram-khan&theme=tokyonight&hide_border=true" width="100%" style="max-width: 820px;" alt="GitHub Streak Stats" loading="lazy" />
 </p>
 
 <br/>
 
 <p align="center">
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-akram-khan&theme=tokyonight" width="820" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-akram-khan&theme=tokyonight" width="100%" style="max-width: 820px;" alt="Profile Summary" loading="lazy" />
 </p>
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## Technical Arsenal
 
@@ -107,7 +76,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## My Data Journey
 
@@ -129,7 +98,7 @@ graph LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 <details>
 <summary align="center"><b>Click to Expand My Complete Skill Ecosystem</b></summary>
@@ -143,7 +112,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" loading="lazy" />
 <br/><b>Python</b>
 <br/>━━━━━━━━━━ 95%
 <br/>⭐⭐⭐⭐⭐
@@ -157,7 +126,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" loading="lazy" />
 <br/><b>R</b>
 <br/>━━━━━━━━░░ 85%
 <br/>⭐⭐⭐⭐
@@ -171,7 +140,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/HTML5_+_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5_+_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 CSS3" loading="lazy" />
 <br/><b>Web Tech</b>
 <br/>━━━━━━━░░░ 78%
 <br/>⭐⭐⭐⭐
@@ -185,7 +154,7 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <table>
 <tr>
@@ -195,7 +164,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/SQL_Mastery-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Mastery-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" loading="lazy" />
 <br/><b>SQL Expertise</b>
 <br/>━━━━━━━━━░ 90%
 <br/>⭐⭐⭐⭐⭐
@@ -209,7 +178,7 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <table>
 <tr>
@@ -219,7 +188,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" loading="lazy" />
 <br/><b>Azure Ecosystem</b>
 <br/>━━━━━━━━━░ 90%
 <br/>⭐⭐⭐⭐⭐
@@ -233,7 +202,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" loading="lazy" />
 <br/><b>Apache Spark</b>
 <br/>━━━━━━━━░░ 80%
 <br/>⭐⭐⭐⭐
@@ -247,7 +216,7 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <table>
 <tr>
@@ -257,7 +226,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" loading="lazy" />
 <br/><b>ML Toolkit</b>
 <br/>━━━━━━━━░░ 85%
 <br/>⭐⭐⭐⭐⭐
@@ -271,7 +240,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" loading="lazy" />
 <br/><b>DS Libraries</b>
 <br/>━━━━━━━━━━ 95%
 <br/>⭐⭐⭐⭐⭐
@@ -285,7 +254,7 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <table>
 <tr>
@@ -295,7 +264,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" loading="lazy" />
 <br/><b>Power BI</b>
 <br/>━━━━━━━━━░ 90%
 <br/>⭐⭐⭐⭐⭐
@@ -309,7 +278,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Python_Viz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Viz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Python Visualization" loading="lazy" />
 <br/><b>Visualization</b>
 <br/>━━━━━━━━░░ 88%
 <br/>⭐⭐⭐⭐⭐
@@ -323,7 +292,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Web_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Web Apps" loading="lazy" />
 <br/><b>Streamlit & Dash</b>
 <br/>━━━━━━━━░░ 87%
 <br/>⭐⭐⭐⭐⭐
@@ -337,7 +306,7 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <table>
 <tr>
@@ -347,7 +316,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/IDEs-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/IDEs-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="IDEs" loading="lazy" />
 <br/><b>Dev Environments</b>
 <br/>━━━━━━━━━░ 93%
 <br/>⭐⭐⭐⭐⭐
@@ -361,7 +330,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/DevOps-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevOps" loading="lazy" />
 <br/><b>Version Control</b>
 <br/>━━━━━━━━━░ 90%
 <br/>⭐⭐⭐⭐⭐
@@ -375,7 +344,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/OS_&_Tools-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/OS_&_Tools-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Operating Systems" loading="lazy" />
 <br/><b>Systems</b>
 <br/>━━━━━━━━░░ 88%
 <br/>⭐⭐⭐⭐⭐
@@ -389,7 +358,7 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <table>
 <tr>
@@ -399,7 +368,7 @@ graph LR
 </tr>
 <tr>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" loading="lazy" />
 <br/><b>Agile & PM</b>
 <br/>━━━━━━━━░░ 88%
 <br/>⭐⭐⭐⭐⭐
@@ -415,7 +384,7 @@ graph LR
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## My Specialization Matrix
 
@@ -436,7 +405,7 @@ graph LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## What Drives Me
 
@@ -469,7 +438,7 @@ Staying at the cutting edge of AI/ML technologies to solve tomorrow's problems t
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## Current Learning Path
 
@@ -477,7 +446,7 @@ Staying at the cutting edge of AI/ML technologies to solve tomorrow's problems t
 
 ```mermaid
 timeline
-    title My Journey
+    title Growth Journey
     section Q1-Q2
         Advanced Deep Learning : Neural Networks
                                 : Transfer Learning
@@ -492,7 +461,7 @@ timeline
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## My Data Philosophy
 
@@ -515,7 +484,7 @@ timeline
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## Fun Stats
 
@@ -532,7 +501,7 @@ timeline
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## Ready for the Next Challenge
 
@@ -540,7 +509,7 @@ timeline
 
 ### Open to Opportunities In:
 
-`Advanced Analytics` • `Machine Learning Engineering` • `Data Architecture`
+`Advanced Analytics` • `Machine Learning Engineering` • `Data Architecture`  
 `Business Intelligence` • `AI Solutions` • `Data Strategy`
 
 <br/>
@@ -552,158 +521,120 @@ timeline
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-
-###  Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
-<!-- ================= PROJECT 1 ================= -->
 <td width="50%">
   <h3 align="center">🏦 Loan Approval Prediction App</h3>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App">
-      <img src="https://raw.githubusercontent.com/coder-akram-khan/Loan-Approval-Prediction-Web-App/main/assets/app.gif"
-           width="85%" />
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/Loan-Approval-Prediction-Web-App/main/assets/app.gif" width="85%" alt="Loan Approval App Demo" loading="lazy" />
     </a>
   </p>
-
   <p align="center">ML-based Streamlit app predicting loan approvals in real-time.</p>
-
   <p align="center">
-    <img src="https://img.shields.io/github/stars/coder-akram-khan/Loan-Approval-Prediction-Web-App?color=39FF14&style=flat" />
-    <img src="https://img.shields.io/github/forks/coder-akram-khan/Loan-Approval-Prediction-Web-App?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/Loan-Approval-Prediction-Web-App?color=39FF14&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/Loan-Approval-Prediction-Web-App?color=39FF14&style=flat" alt="GitHub Forks" />
   </p>
-
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Classification-2ECC71?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Classification-2ECC71?style=flat-square" alt="Classification" />
   </p>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Loan-Approval-Prediction-Web-App">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </p>
 </td>
 
-
-<!-- ================= PROJECT 2 ================= -->
 <td width="50%">
   <h3 align="center">☁️ Azure Sales Data Pipeline</h3>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/azure-sales-data-pipeline">
-      <img src="https://github.com/coder-akram-khan/azure-sales-data-pipeline/blob/main/project%20architecture.png"
-           width="85%" />
+      <img src="https://github.com/coder-akram-khan/azure-sales-data-pipeline/blob/main/project%20architecture.png" width="85%" alt="Azure Pipeline Architecture" loading="lazy" />
     </a>
   </p>
-
   <p align="center">Azure ETL/ELT platform migrating on-prem data for cloud transformation and Power BI analytics.</p>
-
   <p align="center">
-    <img src="https://img.shields.io/github/stars/coder-akram-khan/azure-sales-data-pipeline?color=39FF14&style=flat" />
-    <img src="https://img.shields.io/github/forks/coder-akram-khan/azure-sales-data-pipeline?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/azure-sales-data-pipeline?color=39FF14&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/azure-sales-data-pipeline?color=39FF14&style=flat" alt="GitHub Forks" />
   </p>
-
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure_Databricks-FC4C02?logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure Data Factory" />
+    <img src="https://img.shields.io/badge/Azure_Databricks-FC4C02?logo=databricks&logoColor=white" alt="Databricks" />
+    <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" alt="PySpark" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
   </p>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/azure-sales-data-pipeline">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </p>
 </td>
-
 </tr>
 
-
 <tr>
-
-<!-- ================= PROJECT 3 ================= -->
 <td width="50%">
   <h3 align="center">🍽️ Zomato EDA Dashboard</h3>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Zomato-EDA-Dashboard">
-      <img src="https://raw.githubusercontent.com/coder-akram-khan/Zomato-EDA-Dashboard/main/assets/zomatodash.png"
-           width="85%" />
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/Zomato-EDA-Dashboard/main/assets/zomatodash.png" width="85%" alt="Zomato Dashboard" loading="lazy" />
     </a>
   </p>
-
   <p align="center">Restaurant insights dashboard with visual analytics.</p>
-
   <p align="center">
-    <img src="https://img.shields.io/github/stars/coder-akram-khan/Zomato-EDA-Dashboard?color=39FF14&style=flat" />
-    <img src="https://img.shields.io/github/forks/coder-akram-khan/Zomato-EDA-Dashboard?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/Zomato-EDA-Dashboard?color=39FF14&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/Zomato-EDA-Dashboard?color=39FF14&style=flat" alt="GitHub Forks" />
   </p>
-
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-    <img src="https://img.shields.io/badge/EDA-03C988?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+    <img src="https://img.shields.io/badge/EDA-03C988?style=flat-square" alt="EDA" />
   </p>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Zomato-EDA-Dashboard">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </p>
 </td>
 
-
-<!-- ================= PROJECT 4 ================= -->
 <td width="50%">
   <h3 align="center">📊 Business Analytics Dashboard</h3>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Business_Analytics_Dashboard">
-      <img src="https://raw.githubusercontent.com/coder-akram-khan/Business_Analytics_Dashboard/main/dash.png"
-           width="85%" />
+      <img src="https://raw.githubusercontent.com/coder-akram-khan/Business_Analytics_Dashboard/main/dash.png" width="85%" alt="Business Analytics Dashboard" loading="lazy" />
     </a>
   </p>
-
   <p align="center">Streamlit employee analytics dashboard with KPIs & insights.</p>
-
   <p align="center">
-    <img src="https://img.shields.io/github/stars/coder-akram-khan/Business_Analytics_Dashboard?color=39FF14&style=flat" />
-    <img src="https://img.shields.io/github/forks/coder-akram-khan/Business_Analytics_Dashboard?color=39FF14&style=flat" />
+    <img src="https://img.shields.io/github/stars/coder-akram-khan/Business_Analytics_Dashboard?color=39FF14&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/coder-akram-khan/Business_Analytics_Dashboard?color=39FF14&style=flat" alt="GitHub Forks" />
   </p>
-
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Business_Analytics-9B59B6?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Business_Analytics-9B59B6?style=flat-square" alt="Business Analytics" />
   </p>
-
   <p align="center">
     <a href="https://github.com/coder-akram-khan/Business_Analytics_Dashboard">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </p>
 </td>
-
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-### 📚 Build in Public — Knowledge Hub
+## 📚 Build in Public — Knowledge Hub
 
 <p align="center">
   <i>Sharing my learning journey, resources, and tools with the community</i>
@@ -711,89 +642,74 @@ timeline
 
 <table>
 <tr>
-
-<!-- ================= CHEAT SHEETS ================= -->
-<td width="33%">
+<td width="33%" valign="top">
   <h3 align="center">📄 Cheat Sheets</h3>
-  
   <p align="center">
-    <img src="https://img.shields.io/badge/Quick_Reference-39FF14?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Quick_Reference-39FF14?style=for-the-badge" alt="Quick Reference" />
   </p>
-
   <ul>
-    <li>🐍 <a href="#">Python Data Science Cheat Sheet</a></li>
-    <li>🗄️ <a href="#">SQL Query Quick Reference</a></li>
-    <li>☁️ <a href="#">Azure Services Overview</a></li>
-    <li>🔥 <a href="#">PySpark Commands Guide</a></li>
-    <li>📊 <a href="#">Pandas Operations Reference</a></li>
+    <li>🐍 Python Data Science Cheat Sheet <i>(Coming Soon)</i></li>
+    <li>🗄️ SQL Query Quick Reference <i>(Coming Soon)</i></li>
+    <li>☁️ Azure Services Overview <i>(Coming Soon)</i></li>
+    <li>🔥 PySpark Commands Guide <i>(Coming Soon)</i></li>
+    <li>📊 Pandas Operations Reference <i>(Coming Soon)</i></li>
   </ul>
-
   <p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" />
+    <a href="https://github.com/coder-akram-khan?tab=repositories">
+      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="View All" />
     </a>
   </p>
 </td>
 
-<!-- ================= TUTORIALS & GUIDES ================= -->
-<td width="33%">
+<td width="33%" valign="top">
   <h3 align="center">📖 Tutorials & Guides</h3>
-  
   <p align="center">
-    <img src="https://img.shields.io/badge/Step_by_Step-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Step_by_Step-FF6B6B?style=for-the-badge" alt="Step by Step" />
   </p>
-
   <ul>
-    <li>🎯 <a href="#">Building ETL Pipelines with Azure</a></li>
-    <li>🤖 <a href="#">ML Model Deployment Guide</a></li>
-    <li>📊 <a href="#">Power BI Dashboard Best Practices</a></li>
-    <li>🔧 <a href="#">Streamlit App Development</a></li>
-    <li>💾 <a href="#">Database Optimization Techniques</a></li>
+    <li>🎯 Building ETL Pipelines with Azure <i>(Coming Soon)</i></li>
+    <li>🤖 ML Model Deployment Guide <i>(Coming Soon)</i></li>
+    <li>📊 Power BI Dashboard Best Practices <i>(Coming Soon)</i></li>
+    <li>🔧 Streamlit App Development <i>(Coming Soon)</i></li>
+    <li>💾 Database Optimization Techniques <i>(Coming Soon)</i></li>
   </ul>
-
   <p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" />
+    <a href="https://github.com/coder-akram-khan?tab=repositories">
+      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="View All" />
     </a>
   </p>
 </td>
 
-<!-- ================= SCRIPTS & UTILITIES ================= -->
-<td width="33%">
+<td width="33%" valign="top">
   <h3 align="center">⚙️ Scripts & Utilities</h3>
-  
   <p align="center">
-    <img src="https://img.shields.io/badge/Ready_to_Use-4ECDC4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Ready_to_Use-4ECDC4?style=for-the-badge" alt="Ready to Use" />
   </p>
-
   <ul>
-    <li>🔄 <a href="#">Data Cleaning Automation Script</a></li>
-    <li>📧 <a href="#">Email Report Generator</a></li>
-    <li>📊 <a href="#">CSV to Database Loader</a></li>
-    <li>🔍 <a href="#">API Data Fetcher Template</a></li>
-    <li>🎨 <a href="#">Visualization Templates</a></li>
+    <li>🔄 Data Cleaning Automation Script <i>(Coming Soon)</i></li>
+    <li>📧 Email Report Generator <i>(Coming Soon)</i></li>
+    <li>📊 CSV to Database Loader <i>(Coming Soon)</i></li>
+    <li>🔍 API Data Fetcher Template <i>(Coming Soon)</i></li>
+    <li>🎨 Visualization Templates <i>(Coming Soon)</i></li>
   </ul>
-
   <p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" />
+    <a href="https://github.com/coder-akram-khan?tab=repositories">
+      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="View All" />
     </a>
   </p>
 </td>
-
 </tr>
 </table>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/📦_Browse_Full_Knowledge_Base-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  <a href="https://github.com/coder-akram-khan?tab=repositories">
+    <img src="https://img.shields.io/badge/📦_Browse_Full_Knowledge_Base-1a1a1a?style=for-the-badge&logo=github&logoColor=white" height="45" alt="Browse Knowledge Base" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-
-### ✨ Fun Fact  
+## ✨ Fun Fact
 
 <p align="center">
   I love sharing coding knowledge and creating tech memes —  
@@ -801,66 +717,48 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Coding GIF" loading="lazy" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-
-
-### 📫 Let’s Connect  
+## 📫 Let's Connect
 
 <p align="center">
-
-  <!-- Email -->
-  <a href="mailto:akram.codes.it@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <a href="mailto:akram.codes.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mr-akram-khan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  <a href="https://www.linkedin.com/in/mr-akram-khan/">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/oem.ak" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+  <a href="https://discord.com/users/oem.ak">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/coder-akram-khan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  <a href="https://github.com/coder-akram-khan">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
   </a>
-
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 <table align="center">
   <tr>
-    <!-- Follow Me -->
     <td align="center" width="50%">
       <h3>⭐ Follow Me on GitHub</h3>
-      <a href="https://github.com/coder-akram-khan" target="_blank">
-        <img src="https://img.shields.io/github/followers/coder-akram-khan?label=Follow%20Me&style=social" height="40" />
+      <a href="https://github.com/coder-akram-khan">
+        <img src="https://img.shields.io/github/followers/coder-akram-khan?label=Follow%20Me&style=social" height="40" alt="GitHub Followers" />
       </a>
     </td>
-
-  <!-- QR Code -->
-  <td align="center" width="50%">
+    <td align="center" width="50%">
       <h3>🔳 GitHub QR Code</h3>
-      <a href="https://github.com/coder-akram-khan" target="_blank">
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/coder-akram-khan" 
-               alt="GitHub QR Code" 
-               width="160" />
+      <a href="https://github.com/coder-akram-khan">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/coder-akram-khan" alt="GitHub QR Code" width="160" loading="lazy" />
       </a>
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 <p align="center">
   <i>"Turning data into intelligent systems that solve real-world problems."</i><br/>
