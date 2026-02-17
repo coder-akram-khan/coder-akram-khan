@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 📑 Quick Navigation
+### ☰ Quick Navigation
 
 [📊 Stats](#-github-stats) • [💻 Skills](#technical-arsenal) • [🚀 Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
 
@@ -35,7 +35,7 @@
 </p>
 
 <details>
-<summary align="center"><b>🧮 Click to Expand Full GitHub Analytics</b></summary>
+<summary align="center"><b>⌞ ⌝ Click to Expand Full GitHub Analytics</b></summary>
 <br/>
 
 <p align="center">
@@ -117,7 +117,7 @@ graph LR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 <details>
-<summary align="center"><b>Click to Expand My Complete Skill Ecosystem</b></summary>
+<summary align="center"><b>⌞ ⌝ Click to Expand My Complete Skill Ecosystem</b></summary>
 <br/>
 
 <table>
