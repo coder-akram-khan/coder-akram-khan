@@ -20,13 +20,13 @@
 
 ### ☰ Quick Navigation
 
-[📊 Stats](#-github-stats) • [💻 Skills](#technical-arsenal) • [🚀 Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
+[📶 Stats](#-github-stats) • [💻 Skills](#technical-arsenal) • [🗃️ Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## 📊 GitHub Stats
+## ၊၊||၊ GitHub Stats
 
 <p align="center">
   <a href ="#"> 
@@ -74,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## Technical Arsenal
+## ⚙︎ Technical Arsenal
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## My Data Journey
+## ᯓ✈︎ My Data Journey
 
 <div align="center">
 
@@ -402,7 +402,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## My Specialization Matrix
+## 모 My Specialization Matrix
 
 <div align="center">
 
@@ -423,7 +423,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## What Drives Me
+## ⛐ What Drives Me
 
 <table>
 <tr>
@@ -456,7 +456,7 @@ Staying at the cutting edge of AI/ML technologies to solve tomorrow's problems t
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## Current Learning Path
+## ⌯⌲ Current Learning Path
 
 <div align="center">
 
@@ -479,7 +479,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## My Data Philosophy
+## 𖡎 My Data Philosophy
 
 <div align="center">
 
@@ -502,7 +502,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## Fun Stats
+## ✔ Fun Stats
 
 <div align="center">
 
@@ -519,7 +519,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## Ready for the Next Challenge
+## ➜] Ready for the Next Challenge
 
 <div align="center">
 
@@ -539,7 +539,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## 🚀 Featured Projects
+## ✮⋆˙ Featured Projects
 
 <table>
 <tr>
@@ -650,7 +650,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## 📚 Build in Public — Knowledge Hub
+## 𓄲 Build in Public — Knowledge Hub
 
 <p align="center">
   <i>Sharing my learning journey, resources, and tools with the community</i>
@@ -668,11 +668,11 @@ timeline
   </p>
 
   <ul>
-    <li>🐍 <a href="#">Python Data Science Cheat Sheet</a></li>
-    <li>🗄️ <a href="#">SQL Query Quick Reference</a></li>
-    <li>☁️ <a href="#">Azure Services Overview</a></li>
-    <li>🔥 <a href="#">PySpark Commands Guide</a></li>
-    <li>📊 <a href="#">Pandas Operations Reference</a></li>
+    <li> <a href="#">Python Data Science Cheat Sheet</a></li>
+    <li> <a href="#">SQL Query Quick Reference</a></li>
+    <li> <a href="#">Azure Services Overview</a></li>
+    <li> <a href="#">PySpark Commands Guide</a></li>
+    <li> <a href="#">Pandas Operations Reference</a></li>
   </ul>
 
   <p align="center">
@@ -691,11 +691,11 @@ timeline
   </p>
 
   <ul>
-    <li>🎯 <a href="#">Building ETL Pipelines with Azure</a></li>
-    <li>🤖 <a href="#">ML Model Deployment Guide</a></li>
-    <li>📊 <a href="#">Power BI Dashboard Best Practices</a></li>
-    <li>🔧 <a href="#">Streamlit App Development</a></li>
-    <li>💾 <a href="#">Database Optimization Techniques</a></li>
+    <li> <a href="#">Building ETL Pipelines with Azure</a></li>
+    <li> <a href="#">ML Model Deployment Guide</a></li>
+    <li> <a href="#">Power BI Dashboard Best Practices</a></li>
+    <li> <a href="#">Streamlit App Development</a></li>
+    <li> <a href="#">Database Optimization Techniques</a></li>
   </ul>
 
   <p align="center">
@@ -714,11 +714,11 @@ timeline
   </p>
 
   <ul>
-    <li>🔄 <a href="#">Data Cleaning Automation Script</a></li>
-    <li>📧 <a href="#">Email Report Generator</a></li>
-    <li>📊 <a href="#">CSV to Database Loader</a></li>
-    <li>🔍 <a href="#">API Data Fetcher Template</a></li>
-    <li>🎨 <a href="#">Visualization Templates</a></li>
+    <li> <a href="#">Data Cleaning Automation Script</a></li>
+    <li> <a href="#">Email Report Generator</a></li>
+    <li> <a href="#">CSV to Database Loader</a></li>
+    <li> <a href="#">API Data Fetcher Template</a></li>
+    <li> <a href="#">Visualization Templates</a></li>
   </ul>
 
   <p align="center">
@@ -740,7 +740,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## ✨ Fun Fact
+## ✌︎︎ Fun Fact
 
 <p align="center">
   I love sharing coding knowledge and creating tech memes —  
