@@ -20,9 +20,10 @@
 
 ### ☰ Quick Navigation
 
-[📶 Stats](#-github-stats) • [💻 Skills](#technical-arsenal) • [🗃️ Projects](#-featured-projects) • [📚 Resources](#build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
+[📶 Stats](#github-stats) • [💻 Skills](#technical-arsenal) • [🗃️ Projects](#featured-projects) • [📚 Resources](#build-in-public--knowledge-hub) • [📫 Connect](#lets-connect)
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
 ## ၊၊||၊ GitHub Stats
