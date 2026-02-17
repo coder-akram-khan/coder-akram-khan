@@ -21,7 +21,7 @@
 
 ### ☰ Quick Navigation
 
-[📶 Stats](#-github-stats) • [💻 Skills](#-technical-arsenal) • [🗃️ Projects](#---featured-projects) • [📚 Resources](#build-in-public--knowledge-hub) • [📫 Connect](#lets-connect)
+[📶 Stats](#-github-stats) • [💻 Skills](#-technical-arsenal) • [🗃️ Projects](#-featured-projects) • [📚 Resources](#build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## ⚙︎ Technical Arsenal
+## ▪ Technical Arsenal
 
 <div align="center">
 
@@ -540,7 +540,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## ✮⋆˙ Featured Projects
+## ▪ Featured Projects
 
 <table>
 <tr>
@@ -651,7 +651,7 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
 
-## 𓄲 Build in Public — Knowledge Hub
+## ▪ Build in Public — Knowledge Hub
 
 <p align="center">
   <i>Sharing my learning journey, resources, and tools with the community</i>
