@@ -1,13 +1,19 @@
 <p align="center">
+  <a href ="#"> 
   <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/glass-header.svg" width="100%" style="max-width: 900px;" alt="Akram Khan - Data Analyst & ML Engineer" draggable="false" />
+  </a>
 </p>
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/tech.svg" width="100%" style="max-width: 900px;" alt="Technology Stack Banner" draggable="false" />
+  </a>
 </p>
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://github.com/coder-akram-khan/coder-akram-khan/blob/main/about-me-panel.svg" width="100%" style="max-width: 900px;" alt="About Me Panel" draggable="false" />
+  </a>
 </p>
 
 <div align="center">
@@ -23,7 +29,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://komarev.com/ghpvc/?username=coder-akram-khan&style=for-the-badge&color=39FF14" alt="Profile Views Counter" />
+  </a>
 </p>
 
 <details>
@@ -31,27 +39,35 @@
 <br/>
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=coder-akram-khan&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub Stats" loading="lazy" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=coder-akram-khan&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" loading="lazy" />
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://ghchart.rshah.org/39ff14/coder-akram-khan" width="100%" style="max-width: 820px;" alt="Contribution Graph" loading="lazy" />
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://streak-stats.vercel.app/?user=coder-akram-khan&theme=tokyonight&hide_border=true" width="100%" style="max-width: 820px;" alt="GitHub Streak Stats" loading="lazy" />
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
+  <a href ="#"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-akram-khan&theme=tokyonight" width="100%" style="max-width: 820px;" alt="Profile Summary" loading="lazy" />
+  </a>
 </p>
 
 </details>
