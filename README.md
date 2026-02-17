@@ -642,64 +642,79 @@ timeline
 
 <table>
 <tr>
-<td width="33%" valign="top">
+
+<!-- ================= CHEAT SHEETS ================= -->
+<td width="33%">
   <h3 align="center">📄 Cheat Sheets</h3>
+  
   <p align="center">
-    <img src="https://img.shields.io/badge/Quick_Reference-39FF14?style=for-the-badge" alt="Quick Reference" />
+    <img src="https://img.shields.io/badge/Quick_Reference-39FF14?style=for-the-badge" />
   </p>
+
   <ul>
-    <li>🐍 Python Data Science Cheat Sheet <i>(Coming Soon)</i></li>
-    <li>🗄️ SQL Query Quick Reference <i>(Coming Soon)</i></li>
-    <li>☁️ Azure Services Overview <i>(Coming Soon)</i></li>
-    <li>🔥 PySpark Commands Guide <i>(Coming Soon)</i></li>
-    <li>📊 Pandas Operations Reference <i>(Coming Soon)</i></li>
+    <li>🐍 <a href="#">Python Data Science Cheat Sheet</a></li>
+    <li>🗄️ <a href="#">SQL Query Quick Reference</a></li>
+    <li>☁️ <a href="#">Azure Services Overview</a></li>
+    <li>🔥 <a href="#">PySpark Commands Guide</a></li>
+    <li>📊 <a href="#">Pandas Operations Reference</a></li>
   </ul>
+
   <p align="center">
-    <a href="https://github.com/coder-akram-khan?tab=repositories">
-      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="View All" />
+    <a href="#">
+      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" />
     </a>
   </p>
 </td>
 
-<td width="33%" valign="top">
+<!-- ================= TUTORIALS & GUIDES ================= -->
+<td width="33%">
   <h3 align="center">📖 Tutorials & Guides</h3>
+  
   <p align="center">
-    <img src="https://img.shields.io/badge/Step_by_Step-FF6B6B?style=for-the-badge" alt="Step by Step" />
+    <img src="https://img.shields.io/badge/Step_by_Step-FF6B6B?style=for-the-badge" />
   </p>
+
   <ul>
-    <li>🎯 Building ETL Pipelines with Azure <i>(Coming Soon)</i></li>
-    <li>🤖 ML Model Deployment Guide <i>(Coming Soon)</i></li>
-    <li>📊 Power BI Dashboard Best Practices <i>(Coming Soon)</i></li>
-    <li>🔧 Streamlit App Development <i>(Coming Soon)</i></li>
-    <li>💾 Database Optimization Techniques <i>(Coming Soon)</i></li>
+    <li>🎯 <a href="#">Building ETL Pipelines with Azure</a></li>
+    <li>🤖 <a href="#">ML Model Deployment Guide</a></li>
+    <li>📊 <a href="#">Power BI Dashboard Best Practices</a></li>
+    <li>🔧 <a href="#">Streamlit App Development</a></li>
+    <li>💾 <a href="#">Database Optimization Techniques</a></li>
   </ul>
+
   <p align="center">
-    <a href="https://github.com/coder-akram-khan?tab=repositories">
-      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="View All" />
+    <a href="#">
+      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" />
     </a>
   </p>
 </td>
 
-<td width="33%" valign="top">
+<!-- ================= SCRIPTS & UTILITIES ================= -->
+<td width="33%">
   <h3 align="center">⚙️ Scripts & Utilities</h3>
+  
   <p align="center">
-    <img src="https://img.shields.io/badge/Ready_to_Use-4ECDC4?style=for-the-badge" alt="Ready to Use" />
+    <img src="https://img.shields.io/badge/Ready_to_Use-4ECDC4?style=for-the-badge" />
   </p>
+
   <ul>
-    <li>🔄 Data Cleaning Automation Script <i>(Coming Soon)</i></li>
-    <li>📧 Email Report Generator <i>(Coming Soon)</i></li>
-    <li>📊 CSV to Database Loader <i>(Coming Soon)</i></li>
-    <li>🔍 API Data Fetcher Template <i>(Coming Soon)</i></li>
-    <li>🎨 Visualization Templates <i>(Coming Soon)</i></li>
+    <li>🔄 <a href="#">Data Cleaning Automation Script</a></li>
+    <li>📧 <a href="#">Email Report Generator</a></li>
+    <li>📊 <a href="#">CSV to Database Loader</a></li>
+    <li>🔍 <a href="#">API Data Fetcher Template</a></li>
+    <li>🎨 <a href="#">Visualization Templates</a></li>
   </ul>
+
   <p align="center">
-    <a href="https://github.com/coder-akram-khan?tab=repositories">
-      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="View All" />
+    <a href="#">
+      <img src="https://img.shields.io/badge/VIEW_ALL-00C2FF?style=for-the-badge&logo=readme&logoColor=white" />
     </a>
   </p>
 </td>
+
 </tr>
 </table>
+
 
 <p align="center">
   <a href="https://github.com/coder-akram-khan?tab=repositories">
