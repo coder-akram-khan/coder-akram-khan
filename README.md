@@ -20,7 +20,7 @@
 
 ### ☰ Quick Navigation
 
-[📶 Stats](#-github-stats) • [💻 Skills](#technical-arsenal) • [🗃️ Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
+[📶 Stats](#-github-stats) • [💻 Skills](#-technical-arsenal) • [🗃️ Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
 
 </div>
 
