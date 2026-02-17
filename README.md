@@ -34,9 +34,6 @@
   <img src="https://komarev.com/ghpvc/?username=coder-akram-khan&style=for-the-badge&color=39FF14" alt="Profile Views Counter" />
   </a>
 </p>
-
-<details>
-<summary align="center"><b>⌞ ⌝ Click to Expand Full GitHub Analytics</b></summary>
 <br/>
 
 <p align="center">
@@ -48,6 +45,10 @@
 </p>
 
 <br/>
+
+<details>
+<summary align="center"><b>⌞ ⌝ Click to Expand Full GitHub Analytics</b></summary>
+
 
 <p align="center">
   <a href ="#"> 
