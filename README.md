@@ -670,7 +670,7 @@ timeline
   </p>
 
   <ul>
-    <li> <a href="#">Python Data Science Cheat Sheet</a></li>
+    <li> <a href="https://github.com/coder-akram-khan/business-metrics-playbook">Business Metrics Playbook</a></li>
     <li> <a href="#">SQL Query Quick Reference</a></li>
     <li> <a href="#">Azure Services Overview</a></li>
     <li> <a href="#">PySpark Commands Guide</a></li>
@@ -697,7 +697,7 @@ timeline
     <li> <a href="#">ML Model Deployment Guide</a></li>
     <li> <a href="#">Power BI Dashboard Best Practices</a></li>
     <li> <a href="#">Streamlit App Development</a></li>
-    <li> <a href="#">Database Optimization Techniques</a></li>
+    <li> <a href="https://github.com/coder-akram-khan/data-stack-guides/tree/main/jupyter-virtual-environments">venv Integration with Jupyter</a></li>
   </ul>
 
   <p align="center">
