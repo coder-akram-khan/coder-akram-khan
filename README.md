@@ -21,8 +21,15 @@
 
 ### ☰ Quick Navigation
 
-[📶 Stats](#-github-stats) • [💻 Skills](#-technical-arsenal) • [🗃️ Projects](#-featured-projects) • [📚 Resources](#-build-in-public--knowledge-hub) • [📫 Connect](#-lets-connect)
+<div align="center">
 
+[![Stats](https://img.shields.io/badge/📶_Stats-00D9FF?style=for-the-badge&logo=databricks&logoColor=black)](#-github-stats)
+[![Skills](https://img.shields.io/badge/💻_Skills-FF00FF?style=for-the-badge&logo=python&logoColor=white)](#-technical-arsenal)
+[![Projects](https://img.shields.io/badge/🗃️_Projects-00FF00?style=for-the-badge&logo=github&logoColor=black)](#-featured-projects)
+[![Resources](https://img.shields.io/badge/📚_Resources-FFFF00?style=for-the-badge&logo=readthedocs&logoColor=black)](#-build-in-public--knowledge-hub)
+[![Connect](https://img.shields.io/badge/📫_Connect-FF6600?style=for-the-badge&logo=gmail&logoColor=white)](#-lets-connect)
+
+</div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
