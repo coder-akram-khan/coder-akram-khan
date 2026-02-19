@@ -129,284 +129,410 @@ graph LR
 <summary align="center"><b>⌞ ⌝ Click to Expand My Complete Skill Ecosystem</b></summary>
 <br/>
 
-<table>
+<!-- ROW 1: Foundation Layer + Data Layer -->
+<table width="100%">
+<tr>
+<!-- Foundation Layer -->
+<td width="49%" valign="top">
+<table width="100%">
 <tr>
 <td colspan="2" align="center" bgcolor="#4285f4">
-<h3 style="color:white;">FOUNDATION LAYER: Programming & Scripting</h3>
+<h3 style="color:white;">FOUNDATION LAYER</h3>
+<sub style="color:white;">Programming & Scripting</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
+<td width="35%" align="center" valign="middle">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" loading="lazy" />
-<br/><b>Python</b>
-<br/>━━━━━━━━━━ 95%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Primary Weapon</i></sub>
+<br/><br/>
+<b>Python</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-95%25-success?style=flat-square&labelColor=4285f4" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Use Cases:</b> Data Analysis • ML Pipelines • Automation • ETL<br/>
-<b>Libraries Mastered:</b> Pandas, NumPy, Scikit-learn, TensorFlow<br/>
-<b>Strength:</b> Building end-to-end data solutions
+<td width="65%" valign="top">
+<small>
+<b>Use Cases:</b> Data Analysis • ML Pipelines<br/>
+<b>Libraries:</b> Pandas, NumPy, Scikit-learn<br/>
+<b>Strength:</b> End-to-end solutions
+</small>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
+<td width="35%" align="center" valign="middle">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" loading="lazy" />
-<br/><b>R</b>
-<br/>━━━━━━━━░░ 85%
-<br/>⭐⭐⭐⭐
-<br/><sub><i>Statistical Powerhouse</i></sub>
+<br/><br/>
+<b>R</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-85%25-brightgreen?style=flat-square&labelColor=4285f4" />
+<br/>
+⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Use Cases:</b> Statistical Analysis • Data Visualization • Research<br/>
-<b>Packages:</b> ggplot2, dplyr, tidyr, caret<br/>
-<b>Strength:</b> Advanced statistical modeling
+<td width="65%" valign="top">
+<small>
+<b>Use Cases:</b> Statistical Analysis<br/>
+<b>Packages:</b> ggplot2, dplyr, tidyr<br/>
+<b>Strength:</b> Advanced modeling
+</small>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/HTML5_+_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 CSS3" loading="lazy" />
-<br/><b>Web Tech</b>
-<br/>━━━━━━━░░░ 78%
-<br/>⭐⭐⭐⭐
-<br/><sub><i>Dashboard Builder</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 CSS3" loading="lazy" />
+<br/><br/>
+<b>HTML/CSS</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-78%25-green?style=flat-square&labelColor=4285f4" />
+<br/>
+⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Use Cases:</b> Interactive Dashboards • Reporting • Web Apps<br/>
-<b>Frameworks:</b> Streamlit, Dash, Flask<br/>
-<b>Strength:</b> Creating user-friendly interfaces
+<td width="65%" valign="top">
+<small>
+<b>Use Cases:</b> Dashboards • Web Apps<br/>
+<b>Frameworks:</b> Streamlit, Dash<br/>
+<b>Strength:</b> User interfaces
+</small>
 </td>
 </tr>
 </table>
+</td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+<td width="2%"></td>
 
-<table>
+<!-- Data Layer -->
+<td width="49%" valign="top">
+<table width="100%">
 <tr>
 <td colspan="2" align="center" bgcolor="#34a853">
-<h3 style="color:white;">DATA LAYER: Storage & Querying</h3>
+<h3 style="color:white;">DATA LAYER</h3>
+<sub style="color:white;">Storage & Querying</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/SQL_Mastery-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" loading="lazy" />
-<br/><b>SQL Expertise</b>
-<br/>━━━━━━━━━░ 90%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Query Architect</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" loading="lazy" />
+<br/><br/>
+<b>SQL Expertise</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-90%25-success?style=flat-square&labelColor=34a853" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Databases:</b> MySQL, PostgreSQL, SQL Server, SQLite<br/>
-<b>Skills:</b> Complex Joins • Window Functions • Query Optimization<br/>
-<b>Specialty:</b> Performance tuning & data warehousing
+<td width="65%" valign="top">
+<small>
+<b>Databases:</b> MySQL, PostgreSQL, SQL Server<br/>
+<b>Skills:</b> Joins • Window Functions • Optimization<br/>
+<b>Specialty:</b> Performance tuning & warehousing
+</small>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
-<table>
+<!-- ROW 2: Cloud Layer + Intelligence Layer -->
+<table width="100%">
+<tr>
+<!-- Cloud Layer -->
+<td width="49%" valign="top">
+<table width="100%">
 <tr>
 <td colspan="2" align="center" bgcolor="#fbbc04">
-<h3>CLOUD LAYER: Scalable Infrastructure</h3>
+<h3>CLOUD LAYER</h3>
+<sub>Scalable Infrastructure</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" loading="lazy" />
-<br/><b>Azure Ecosystem</b>
-<br/>━━━━━━━━━░ 90%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Cloud Architect</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" loading="lazy" />
+<br/><br/>
+<b>Azure</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-90%25-success?style=flat-square&labelColor=fbbc04" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Services:</b> Data Factory • Synapse • Databricks • Storage<br/>
-<b>Skills:</b> Pipeline Development • Data Warehousing • ETL/ELT<br/>
-<b>Specialty:</b> Building scalable data platforms
+<td width="65%" valign="top">
+<small>
+<b>Services:</b> Data Factory • Synapse • Databricks<br/>
+<b>Skills:</b> Pipelines • ETL/ELT • Warehousing<br/>
+<b>Specialty:</b> Scalable data platforms
+</small>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" loading="lazy" />
-<br/><b>Apache Spark</b>
-<br/>━━━━━━━━░░ 80%
-<br/>⭐⭐⭐⭐
-<br/><sub><i>Big Data Engineer</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" loading="lazy" />
+<br/><br/>
+<b>Spark</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-80%25-brightgreen?style=flat-square&labelColor=fbbc04" />
+<br/>
+⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Use Cases:</b> Large-scale Processing • Real-time Analytics<br/>
-<b>Skills:</b> PySpark • SparkSQL • MLlib • Streaming<br/>
-<b>Specialty:</b> Processing terabytes of data efficiently
+<td width="65%" valign="top">
+<small>
+<b>Use Cases:</b> Large-scale Processing<br/>
+<b>Skills:</b> PySpark • SparkSQL • MLlib<br/>
+<b>Specialty:</b> Terabyte-scale data
+</small>
 </td>
 </tr>
 </table>
+</td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+<td width="2%"></td>
 
-<table>
+<!-- Intelligence Layer -->
+<td width="49%" valign="top">
+<table width="100%">
 <tr>
 <td colspan="2" align="center" bgcolor="#ea4335">
-<h3 style="color:white;">INTELLIGENCE LAYER: ML & AI</h3>
+<h3 style="color:white;">INTELLIGENCE LAYER</h3>
+<sub style="color:white;">ML & AI</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" loading="lazy" />
-<br/><b>ML Toolkit</b>
-<br/>━━━━━━━━░░ 85%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Model Builder</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" loading="lazy" />
+<br/><br/>
+<b>ML Toolkit</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-85%25-brightgreen?style=flat-square&labelColor=ea4335" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Libraries:</b> Scikit-learn • TensorFlow • Spark MLlib<br/>
-<b>Algorithms:</b> Classification • Regression • Clustering • Neural Networks<br/>
-<b>Specialty:</b> End-to-end ML pipeline development
+<td width="65%" valign="top">
+<small>
+<b>Libraries:</b> Scikit-learn • TensorFlow<br/>
+<b>Algorithms:</b> Classification • Regression • Neural Nets<br/>
+<b>Specialty:</b> End-to-end ML pipelines
+</small>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" loading="lazy" />
-<br/><b>DS Libraries</b>
-<br/>━━━━━━━━━━ 95%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Data Wizard</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/DataSci-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" loading="lazy" />
+<br/><br/>
+<b>DS Stack</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-95%25-success?style=flat-square&labelColor=ea4335" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Stack:</b> NumPy • Pandas • SciPy • Statsmodels<br/>
-<b>Skills:</b> Feature Engineering • Statistical Analysis • Time Series<br/>
-<b>Specialty:</b> Turning messy data into insights
+<td width="65%" valign="top">
+<small>
+<b>Stack:</b> NumPy • Pandas • SciPy<br/>
+<b>Skills:</b> Feature Engineering • Time Series<br/>
+<b>Specialty:</b> Data into insights
+</small>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
-<table>
+<!-- ROW 3: Visualization Layer -->
+<table width="100%">
 <tr>
-<td colspan="2" align="center" bgcolor="#9c27b0">
-<h3 style="color:white;">VISUALIZATION LAYER: Storytelling with Data</h3>
+<td colspan="3" align="center" bgcolor="#9c27b0">
+<h3 style="color:white;">VISUALIZATION LAYER</h3>
+<sub style="color:white;">Storytelling with Data</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" loading="lazy" />
-<br/><b>Power BI</b>
-<br/>━━━━━━━━━░ 90%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Business Intelligence</i></sub>
-</td>
-<td width="70%">
-<b>Expertise:</b> Interactive Dashboards • DAX • M Query • Reports<br/>
-<b>Skills:</b> Data Modeling • KPI Design • Automated Reporting<br/>
-<b>Impact:</b> Empowering stakeholders with self-service analytics
+<td width="32%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" loading="lazy" />
+<br/><br/>
+<b>Power BI</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-90%25-success?style=flat-square&labelColor=9c27b0" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Python_Viz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Python Visualization" loading="lazy" />
-<br/><b>Visualization</b>
-<br/>━━━━━━━━░░ 88%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Chart Master</i></sub>
+<td valign="top">
+<small>
+<b>Expertise:</b> Dashboards • DAX • M Query<br/>
+<b>Skills:</b> Data Modeling • KPI Design<br/>
+<b>Impact:</b> Self-service analytics
+</small>
 </td>
-<td width="70%">
-<b>Tools:</b> Matplotlib • Seaborn • Plotly • Bokeh<br/>
-<b>Skills:</b> Custom Charts • Interactive Plots • 3D Visualization<br/>
-<b>Specialty:</b> Creating publication-ready visualizations
+</tr>
+</table>
+</td>
+
+<td width="2%"></td>
+
+<td width="32%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/PyViz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Python Viz" loading="lazy" />
+<br/><br/>
+<b>Python Viz</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-88%25-brightgreen?style=flat-square&labelColor=9c27b0" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/Web_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Web Apps" loading="lazy" />
-<br/><b>Streamlit & Dash</b>
-<br/>━━━━━━━━░░ 87%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>App Developer</i></sub>
+<td valign="top">
+<small>
+<b>Tools:</b> Matplotlib • Seaborn • Plotly<br/>
+<b>Skills:</b> Custom Charts • Interactive Plots<br/>
+<b>Specialty:</b> Publication-ready visuals
+</small>
 </td>
-<td width="70%">
-<b>Use Cases:</b> ML Demos • Data Apps • Interactive Tools<br/>
-<b>Skills:</b> Rapid Prototyping • User Interface • Real-time Updates<br/>
-<b>Impact:</b> Making ML models accessible to everyone
+</tr>
+</table>
+</td>
+
+<td width="2%"></td>
+
+<td width="32%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/WebApps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Web Apps" loading="lazy" />
+<br/><br/>
+<b>Streamlit</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-87%25-brightgreen?style=flat-square&labelColor=9c27b0" />
+<br/>
+⭐⭐⭐⭐⭐
+</td>
+</tr>
+<tr>
+<td valign="top">
+<small>
+<b>Use Cases:</b> ML Demos • Data Apps<br/>
+<b>Skills:</b> Rapid Prototyping • UI Design<br/>
+<b>Impact:</b> Accessible ML models
+</small>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
-<table>
+<!-- ROW 4: Development Layer + Collaboration Layer -->
+<table width="100%">
+<tr>
+<!-- Development Layer -->
+<td width="49%" valign="top">
+<table width="100%">
 <tr>
 <td colspan="2" align="center" bgcolor="#0f9d58">
-<h3 style="color:white;">DEVELOPMENT LAYER: Tools & Environment</h3>
+<h3 style="color:white;">DEVELOPMENT LAYER</h3>
+<sub style="color:white;">Tools & Environment</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
+<td width="35%" align="center" valign="middle">
 <img src="https://img.shields.io/badge/IDEs-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="IDEs" loading="lazy" />
-<br/><b>Dev Environments</b>
-<br/>━━━━━━━━━░ 93%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Code Commander</i></sub>
+<br/><br/>
+<b>IDEs</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-93%25-success?style=flat-square&labelColor=0f9d58" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Tools:</b> VS Code • Jupyter • PyCharm • RStudio • Anaconda<br/>
-<b>Skills:</b> Efficient Coding • Debugging • Extensions • Shortcuts<br/>
-<b>Productivity:</b> Lightning-fast development workflow
+<td width="65%" valign="top">
+<small>
+<b>Tools:</b> VS Code • Jupyter • PyCharm<br/>
+<b>Skills:</b> Efficient Coding • Debugging<br/>
+<b>Productivity:</b> Lightning-fast workflow
+</small>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
+<td width="35%" align="center" valign="middle">
 <img src="https://img.shields.io/badge/DevOps-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevOps" loading="lazy" />
-<br/><b>Version Control</b>
-<br/>━━━━━━━━━░ 90%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Collaboration Pro</i></sub>
+<br/><br/>
+<b>Git/CI/CD</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-90%25-success?style=flat-square&labelColor=0f9d58" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Stack:</b> Git • GitHub • Jenkins • CI/CD Pipelines<br/>
-<b>Skills:</b> Branching • Merging • Code Reviews • Automation<br/>
-<b>Practice:</b> Clean commits, collaborative development
+<td width="65%" valign="top">
+<small>
+<b>Stack:</b> Git • GitHub • Jenkins<br/>
+<b>Skills:</b> Branching • Code Reviews<br/>
+<b>Practice:</b> Collaborative development
+</small>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/OS_&_Tools-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Operating Systems" loading="lazy" />
-<br/><b>Systems</b>
-<br/>━━━━━━━━░░ 88%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>System Navigator</i></sub>
+<td width="35%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS" loading="lazy" />
+<br/><br/>
+<b>OS</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-88%25-brightgreen?style=flat-square&labelColor=0f9d58" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
-<b>Platforms:</b> Windows • Linux (Ubuntu) • Cloud Environments<br/>
-<b>Skills:</b> Shell Scripting • Remote Access • System Admin<br/>
-<b>Tools:</b> PuTTY • WinSCP • Terminal
+<td width="65%" valign="top">
+<small>
+<b>Platforms:</b> Windows • Linux • Cloud<br/>
+<b>Skills:</b> Shell Scripting • System Admin<br/>
+<b>Tools:</b> PuTTY • Terminal
+</small>
 </td>
 </tr>
 </table>
+</td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+<td width="2%"></td>
 
-<table>
+<!-- Collaboration Layer -->
+<td width="49%" valign="top">
+<table width="100%">
 <tr>
 <td colspan="2" align="center" bgcolor="#0052cc">
-<h3 style="color:white;">COLLABORATION LAYER: Teamwork & Management</h3>
+<h3 style="color:white;">COLLABORATION LAYER</h3>
+<sub style="color:white;">Teamwork & Management</sub>
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
+<td width="35%" align="center" valign="middle">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" loading="lazy" />
-<br/><b>Agile & PM</b>
-<br/>━━━━━━━━░░ 88%
-<br/>⭐⭐⭐⭐⭐
-<br/><sub><i>Project Organizer</i></sub>
+<br/><br/>
+<b>Agile/PM</b>
+<br/>
+<img src="https://img.shields.io/badge/Pro-88%25-brightgreen?style=flat-square&labelColor=0052cc" />
+<br/>
+⭐⭐⭐⭐⭐
 </td>
-<td width="70%">
+<td width="65%" valign="top">
+<small>
 <b>Methodology:</b> Agile • Scrum • Kanban<br/>
-<b>Skills:</b> Sprint Planning • Task Management • Team Coordination<br/>
-<b>Impact:</b> Delivering projects on time, every time
+<b>Skills:</b> Sprint Planning • Task Management<br/>
+<b>Impact:</b> On-time delivery
+</small>
 </td>
 </tr>
 </table>
-
+</td>
+</tr>
+</table>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
