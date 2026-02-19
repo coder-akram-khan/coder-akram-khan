@@ -541,27 +541,25 @@ graph LR
 
 <div align="center">
 
-<table width="95%">
+<table width="100%">
 <tr>
 <td width="32%" valign="top">
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#4285f4" style="padding:10px;">
-<h3 style="color:white;margin:0;">78%</h3>
+<td align="center" bgcolor="#4285f4" style="padding:20px;">
+<h2 style="color:white;margin:0;font-size:48px;">78%</h2>
 </td>
 </tr>
 <tr>
-<td align="center" style="padding:10px;">
-<b>📊 Data Engineering</b>
+<td align="center" style="padding:20px;">
+<h3>📊 Data Engineering</h3>
+<br/>
+<img src="https://img.shields.io/badge/Level-Advanced-success?style=for-the-badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Level-Advanced-success?style=flat-square" />
-<br/><br/>
-<small>
 ✓ ETL/ELT Pipelines<br/>
 ✓ Azure Cloud Services<br/>
 ✓ Big Data (Spark)<br/>
 ✓ Data Warehousing
-</small>
 </td>
 </tr>
 </table>
@@ -572,22 +570,20 @@ graph LR
 <td width="32%" valign="top">
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#34a853" style="padding:10px;">
-<h3 style="color:white;margin:0;">80%</h3>
+<td align="center" bgcolor="#34a853" style="padding:20px;">
+<h2 style="color:white;margin:0;font-size:48px;">80%</h2>
 </td>
 </tr>
 <tr>
-<td align="center" style="padding:10px;">
-<b>📈 Data Science</b>
+<td align="center" style="padding:20px;">
+<h3>📈 Data Science</h3>
+<br/>
+<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square" />
-<br/><br/>
-<small>
 ✓ Statistical Analysis<br/>
 ✓ Python (Pandas/NumPy)<br/>
 ✓ Data Visualization<br/>
 ✓ Feature Engineering
-</small>
 </td>
 </tr>
 </table>
@@ -598,22 +594,20 @@ graph LR
 <td width="32%" valign="top">
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#fbbc04" style="padding:10px;">
-<h3 style="margin:0;">82%</h3>
+<td align="center" bgcolor="#fbbc04" style="padding:20px;">
+<h2 style="margin:0;font-size:48px;">82%</h2>
 </td>
 </tr>
 <tr>
-<td align="center" style="padding:10px;">
-<b>🤖 ML/AI Deployment</b>
+<td align="center" style="padding:20px;">
+<h3>🤖 ML/AI Deployment</h3>
+<br/>
+<img src="https://img.shields.io/badge/Level-Advanced-success?style=for-the-badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Level-Advanced-success?style=flat-square" />
-<br/><br/>
-<small>
 ✓ Model Development<br/>
 ✓ Scikit-learn/TensorFlow<br/>
 ✓ Production Deployment<br/>
 ✓ MLOps Best Practices
-</small>
 </td>
 </tr>
 </table>
@@ -621,10 +615,10 @@ graph LR
 </tr>
 
 <tr>
-<td colspan="5" align="center" style="padding-top:20px;">
-<img src="https://img.shields.io/badge/⚡-FULL--STACK_DATA_ANALYST-ea4335?style=for-the-badge&logoColor=white" />
+<td colspan="5" align="center" style="padding-top:30px;">
+<img src="https://img.shields.io/badge/⚡-FULL--STACK_DATA_ANALYST-ea4335?style=for-the-badge&logoColor=white" height="50" />
 <br/><br/>
-<i>Delivering end-to-end data solutions with engineering rigor, scientific methodology, and AI innovation</i>
+<h4><i>Delivering end-to-end data solutions with engineering rigor, scientific methodology, and AI innovation</i></h4>
 </td>
 </tr>
 </table>
