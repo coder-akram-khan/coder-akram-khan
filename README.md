@@ -517,12 +517,12 @@ timeline
 
 | Metric | Value | Achievement |
 |:------:|:-----:|:-----------:|
-| 📊 **Datasets Analyzed** | 500+ | From small to petabyte scale |
-| 🤖 **ML Models Built** | 100+ | Classification to Deep Learning |
-| 📈 **Dashboards Created** | 50+ | Empowering data-driven decisions |
+| 📊 **Datasets Analyzed** | 100+ | From small to petabyte scale |
+| 🤖 **ML Models Built** | 18+ | Classification to Deep Learning |
+| 📈 **Dashboards Created** | 13+ | Empowering data-driven decisions |
 | ☕ **Coffee Consumed** | ∞ | Fueled by caffeine and curiosity |
-| 🎓 **Courses Completed** | 25+ | Never stop learning |
-| 💡 **Problems Solved** | 1000+ | Each one a learning opportunity |
+| 🎓 **Courses Completed** | 6+ | Never stop learning |
+| 💡 **Problems Solved** | 380+ | Each one a learning opportunity |
 
 </div>
 
