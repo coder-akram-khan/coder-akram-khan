@@ -541,18 +541,93 @@ graph LR
 
 <div align="center">
 
-```
-         DATA ENGINEERING        DATA SCIENCE         ML/AI DEPLOYMENT
-              ████████                ██████              ████████
-               88%                     85%                  82%
-                │                       │                    │
-                └───────────┬───────────┴────────────────────┘
-                            │
-                    ┌───────▼───────┐
-                    │  FULL-STACK   │
-                    │ DATA ANALYST  │
-                    └───────────────┘
-```
+<table width="95%">
+<tr>
+<td width="32%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#4285f4" style="padding:10px;">
+<h3 style="color:white;margin:0;">78%</h3>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding:10px;">
+<b>📊 Data Engineering</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Level-Advanced-success?style=flat-square" />
+<br/><br/>
+<small>
+✓ ETL/ELT Pipelines<br/>
+✓ Azure Cloud Services<br/>
+✓ Big Data (Spark)<br/>
+✓ Data Warehousing
+</small>
+</td>
+</tr>
+</table>
+</td>
+
+<td width="2%"></td>
+
+<td width="32%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#34a853" style="padding:10px;">
+<h3 style="color:white;margin:0;">80%</h3>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding:10px;">
+<b>📈 Data Science</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square" />
+<br/><br/>
+<small>
+✓ Statistical Analysis<br/>
+✓ Python (Pandas/NumPy)<br/>
+✓ Data Visualization<br/>
+✓ Feature Engineering
+</small>
+</td>
+</tr>
+</table>
+</td>
+
+<td width="2%"></td>
+
+<td width="32%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#fbbc04" style="padding:10px;">
+<h3 style="margin:0;">82%</h3>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding:10px;">
+<b>🤖 ML/AI Deployment</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Level-Advanced-success?style=flat-square" />
+<br/><br/>
+<small>
+✓ Model Development<br/>
+✓ Scikit-learn/TensorFlow<br/>
+✓ Production Deployment<br/>
+✓ MLOps Best Practices
+</small>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="5" align="center" style="padding-top:20px;">
+<img src="https://img.shields.io/badge/⚡-FULL--STACK_DATA_ANALYST-ea4335?style=for-the-badge&logoColor=white" />
+<br/><br/>
+<i>Delivering end-to-end data solutions with engineering rigor, scientific methodology, and AI innovation</i>
+</td>
+</tr>
+</table>
 
 </div>
 
